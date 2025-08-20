@@ -812,3 +812,218 @@
         }
 
         function toggleDarkMode() {
+            document.body.style.filter = document.body.style.filter === 'invert(1)' ? 'invert(0)' : 'invert(1)';
+            showAchievement('Theme Toggle', 'Dark mode activated!');
+        }
+
+        function shareProfile() {
+            if (navigator.share) {
+                navigator.share({
+                    title: 'Salil Gupta - Interactive Developer Portfolio',
+                    text: 'Check out this amazing interactive portfolio!',
+                    url: window.location.href
+                });
+            } else {
+                navigator.clipboard.writeText(window.location.href);
+                showAchievement('Link Copied', 'Portfolio link copied to clipboard!');
+            }
+        }
+
+        function submitForm() {
+            const inputs = document.querySelectorAll('.form-input');
+            let allFilled = true;
+            
+            inputs.forEach(input => {
+                if (!input.value.trim()) {
+                    allFilled = false;
+                    input.style.borderColor = '#ff6b6b';
+                    input.style.animation = 'shake 0.5s ease-in-out';
+                } else {
+                    input.style.borderColor = '#4ecdc4';
+                }
+            });
+
+            if (allFilled) {
+                showAchievement('Form Submitted', 'Thanks for reaching out! I\'ll get back to you soon!');
+                inputs.forEach(input => input.value = '');
+                triggerConfetti();
+            } else {
+                showAchievement('Form Error', 'Please fill in all fields!');
+            }
+        }
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey) {
+                switch(e.key) {
+                    case 'h':
+                        e.preventDefault();
+                        scrollToTop();
+                        break;
+                    case 't':
+                        e.preventDefault();
+                        toggleDarkMode();
+                        break;
+                    case 's':
+                        e.preventDefault();
+                        shareProfile();
+                        break;
+                    case 'c':
+                        e.preventDefault();
+                        triggerConfetti();
+                        break;
+                }
+            }
+        });
+
+        // Auto-scroll effect for skill cards
+        let skillIndex = 0;
+        function autoHighlightSkills() {
+            const skills = document.querySelectorAll('.skill-card');
+            skills.forEach((skill, index) => {
+                if (index === skillIndex) {
+                    skill.style.transform = 'scale(1.02)';
+                    skill.style.boxShadow = '0 20px 40px rgba(255, 107, 107, 0.3)';
+                } else {
+                    skill.style.transform = 'scale(1)';
+                    skill.style.boxShadow = 'none';
+                }
+            });
+            skillIndex = (skillIndex + 1) % skills.length;
+        }
+
+        // Start auto-highlighting after page load
+        setTimeout(() => {
+            setInterval(autoHighlightSkills, 3000);
+        }, 5000);
+
+        // Parallax effect
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const particles = document.querySelectorAll('.particle');
+            particles.forEach((particle, index) => {
+                const speed = (index % 3 + 1) * 0.5;
+                particle.style.transform = `translateY(${scrolled * speed}px)`;
+            });
+        });
+
+        // Click sound effect (visual feedback)
+        document.addEventListener('click', function(e) {
+            const ripple = document.createElement('div');
+            ripple.style.position = 'absolute';
+            ripple.style.left = e.clientX - 25 + 'px';
+            ripple.style.top = e.clientY - 25 + 'px';
+            ripple.style.width = '50px';
+            ripple.style.height = '50px';
+            ripple.style.background = 'radial-gradient(circle, rgba(255,107,107,0.6), transparent)';
+            ripple.style.borderRadius = '50%';
+            ripple.style.pointerEvents = 'none';
+            ripple.style.zIndex = '1000';
+            ripple.style.animation = 'rippleEffect 0.6s ease-out';
+            document.body.appendChild(ripple);
+
+            setTimeout(() => ripple.remove(), 600);
+        });
+
+        // Add ripple effect keyframes
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes rippleEffect {
+                0% {
+                    transform: scale(0);
+                    opacity: 1;
+                }
+                100% {
+                    transform: scale(4);
+                    opacity: 0;
+                }
+            }
+            
+            @keyframes shake {
+                0% { transform: translateX(0); }
+                25% { transform: translateX(-5px); }
+                50% { transform: translateX(5px); }
+                75% { transform: translateX(-5px); }
+                100% { transform: translateX(0); }
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Easter eggs
+        let konamiCode = [];
+        const konamiSequence = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]; // ↑↑↓↓←→←→BA
+
+        document.addEventListener('keydown', function(e) {
+            konamiCode.push(e.keyCode);
+            if (konamiCode.length > 10) konamiCode.shift();
+            
+            if (konamiCode.join('') === konamiSequence.join('')) {
+                showAchievement('Konami Code!', 'You found the secret! 🎮');
+                triggerMegaConfetti();
+                konamiCode = [];
+            }
+        });
+
+        function triggerMegaConfetti() {
+            for (let i = 0; i < 200; i++) {
+                setTimeout(() => createConfetti(), i * 10);
+            }
+            
+            // Rainbow background flash
+            const originalBg = document.body.style.background;
+            const colors = ['#ff0000', '#ff8000', '#ffff00', '#80ff00', '#00ff00', '#00ff80', '#00ffff', '#0080ff', '#0000ff', '#8000ff', '#ff00ff', '#ff0080'];
+            let colorIndex = 0;
+            
+            const flashInterval = setInterval(() => {
+                document.body.style.background = colors[colorIndex];
+                colorIndex = (colorIndex + 1) % colors.length;
+            }, 100);
+            
+            setTimeout(() => {
+                clearInterval(flashInterval);
+                document.body.style.background = originalBg;
+            }, 2000);
+        }
+
+        // Mobile optimizations
+        if (window.innerWidth <= 768) {
+            // Reduce particle count for mobile
+            const particles = document.querySelectorAll('.particle');
+            particles.forEach((particle, index) => {
+                if (index > 20) particle.remove();
+            });
+            
+            // Simplify animations for better performance
+            document.body.style.setProperty('--animation-duration', '0.3s');
+        }
+
+        // Performance monitoring
+        let frameCount = 0;
+        let lastTime = performance.now();
+
+        function measurePerformance() {
+            frameCount++;
+            const currentTime = performance.now();
+            
+            if (currentTime >= lastTime + 1000) {
+                const fps = Math.round((frameCount * 1000) / (currentTime - lastTime));
+                if (fps < 30) {
+                    // Reduce effects for better performance
+                    document.querySelectorAll('.particle').forEach(p => p.style.display = 'none');
+                }
+                frameCount = 0;
+                lastTime = currentTime;
+            }
+            
+            requestAnimationFrame(measurePerformance);
+        }
+
+        requestAnimationFrame(measurePerformance);
+
+        // Welcome message
+        setTimeout(() => {
+            showAchievement('Welcome!', 'Try hovering over elements and pressing Ctrl+H, Ctrl+T, Ctrl+S, or Ctrl+C!');
+        }, 3000);
+    </script>
+</body>
+</html>
