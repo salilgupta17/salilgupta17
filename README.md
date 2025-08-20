@@ -137,15 +137,15 @@ Version Control (Git)        █████████████████
 <div align="center">
 
 ### 📧 Contact Information
-**Email**: [salilgupta17@gmail.com](mailto:salilgupta17@gmail.com)  
+**Email**: [salilhu001@gmail.com](mailto:salilgupta17@gmail.com)  
 **LinkedIn**: [Connect with me professionally](YOUR_LINKEDIN_PROFILE)  
 **Portfolio**: [View my work](YOUR_PORTFOLIO_WEBSITE)
 
 ### 🔗 Professional Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salil-gupta-300106326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salilgupta17)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salilgupta17@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salilhu001@gmail.com)
 
 </div>
 
