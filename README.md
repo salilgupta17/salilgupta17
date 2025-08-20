@@ -1,583 +1,489 @@
-# 🎮 SALIL GUPTA - INTERACTIVE GAMING DEVELOPER 🎮
+# 🚀 Salil Gupta - Computer Science Student
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%23FF6B35&center=true&vCenter=true&width=800&lines=🎮+SALILGUPTA17+GAMING+ZONE+🎮;⚡+INTERACTIVE+DEVELOPER+⚡;🔥+HOVER+FOR+SURPRISES+🔥;💀+GAMING+LEGEND+STATUS+💀;🚀+CODE+%26+CONQUER+🚀;✨+NEXT+LEVEL+PORTFOLIO+✨)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=%2336BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Full+Stack+Developer;Problem+Solver+%26+Innovator;Building+Tomorrow's+Technology)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11,12&height=220&section=header&text=🎯%20ELITE%20GAMER%20DEV%20🎯&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=150&section=header&text=SALIL%20GUPTA&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
   
 </div>
 
-<div align="center" id="interactive-profile">
+## 👨‍💻 Professional Overview
 
-## 🎰 SPIN THE DEVELOPER SLOTS! 🎰
+> *"Passionate about transforming complex problems into elegant software solutions through innovative thinking and continuous learning."*
 
-<div class="slot-machine">
-  <div class="slot-container">
-    <div class="slot-reel" id="reel1">🎮</div>
-    <div class="slot-reel" id="reel2">💻</div>
-    <div class="slot-reel" id="reel3">🔥</div>
+🎓 **Education**: B.Tech Computer Science & Engineering - GL Bajaj Institute of Technology & Management  
+💼 **Focus**: Full Stack Development & Software Engineering  
+🌱 **Currently Learning**: Advanced algorithms, system design, cloud technologies  
+🎯 **Career Goal**: Building scalable software solutions that impact millions of users  
+⚡ **Philosophy**: Clean code, efficient algorithms, user-centric design  
+
+---
+
+## 🎮 Interactive Skill Dashboard
+
+<div align="center">
+
+### 💻 Click to Explore My Tech Arsenal! 💻
+
+<div class="skill-dashboard">
+  <div class="skill-category" onclick="toggleSkillDetails('frontend')">
+    <h3>🎨 Frontend Development</h3>
+    <div class="progress-bar">
+      <div class="progress-fill frontend-fill" style="width: 85%"></div>
+    </div>
+    <div class="skill-details" id="frontend-details">
+      <p><strong>React.js, Next.js, Vue.js, HTML5/CSS3, JavaScript/TypeScript</strong></p>
+      <p>Building responsive, interactive user interfaces with modern frameworks</p>
+    </div>
   </div>
-  <button class="spin-btn" onclick="spinSlots()">🎰 SPIN FOR LUCK! 🎰</button>
-  <div class="jackpot-display" id="jackpot">JACKPOT: 🎯 READY TO HIRE! 🎯</div>
+  
+  <div class="skill-category" onclick="toggleSkillDetails('backend')">
+    <h3>⚙️ Backend Development</h3>
+    <div class="progress-bar">
+      <div class="progress-fill backend-fill" style="width: 80%"></div>
+    </div>
+    <div class="skill-details" id="backend-details">
+      <p><strong>Node.js, Express.js, Python, Java, RESTful APIs</strong></p>
+      <p>Creating robust server-side applications and efficient APIs</p>
+    </div>
+  </div>
+  
+  <div class="skill-category" onclick="toggleSkillDetails('database')">
+    <h3>🗄️ Database Management</h3>
+    <div class="progress-bar">
+      <div class="progress-fill database-fill" style="width: 75%"></div>
+    </div>
+    <div class="skill-details" id="database-details">
+      <p><strong>MongoDB, MySQL, PostgreSQL, Database Design</strong></p>
+      <p>Designing efficient data structures and optimizing queries</p>
+    </div>
+  </div>
+  
+  <div class="skill-category" onclick="toggleSkillDetails('tools')">
+    <h3>🛠️ Development Tools</h3>
+    <div class="progress-bar">
+      <div class="progress-fill tools-fill" style="width: 90%"></div>
+    </div>
+    <div class="skill-details" id="tools-details">
+      <p><strong>Git, GitHub, VS Code, Docker, Linux, AWS</strong></p>
+      <p>Proficient with modern development workflows and deployment</p>
+    </div>
+  </div>
 </div>
 
 </div>
 
 <style>
-/* Epic Interactive Styles */
-@keyframes rainbow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes progressFill {
+  from { width: 0%; }
+  to { width: var(--target-width); }
 }
 
 @keyframes glow {
-  0% { box-shadow: 0 0 5px #ff6b35; }
-  50% { box-shadow: 0 0 20px #ff6b35, 0 0 30px #ff6b35; }
-  100% { box-shadow: 0 0 5px #ff6b35; }
-}
-
-@keyframes spin {
-  0% { transform: rotateY(0deg); }
-  100% { transform: rotateY(360deg); }
+  0% { box-shadow: 0 0 5px rgba(54, 188, 247, 0.3); }
+  50% { box-shadow: 0 0 20px rgba(54, 188, 247, 0.6); }
+  100% { box-shadow: 0 0 5px rgba(54, 188, 247, 0.3); }
 }
 
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-  40% { transform: translateY(-10px); }
-  60% { transform: translateY(-5px); }
+  40% { transform: translateY(-5px); }
+  60% { transform: translateY(-3px); }
 }
 
-@keyframes shake {
-  0% { transform: translate(1px, 1px) rotate(0deg); }
-  10% { transform: translate(-1px, -2px) rotate(-1deg); }
-  20% { transform: translate(-3px, 0px) rotate(1deg); }
-  30% { transform: translate(3px, 2px) rotate(0deg); }
-  40% { transform: translate(1px, -1px) rotate(1deg); }
-  50% { transform: translate(-1px, 2px) rotate(-1deg); }
-  60% { transform: translate(-3px, 1px) rotate(0deg); }
-  70% { transform: translate(3px, 1px) rotate(-1deg); }
-  80% { transform: translate(-1px, -1px) rotate(1deg); }
-  90% { transform: translate(1px, 2px) rotate(0deg); }
-  100% { transform: translate(1px, -2px) rotate(-1deg); }
-}
-
-.slot-machine {
-  background: linear-gradient(45deg, #FF6B35, #F7931E, #FFD23F, #06FFA5, #36BCF7, #8B5FBF);
-  background-size: 400% 400%;
-  animation: rainbow 3s ease infinite;
+.skill-dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
   padding: 20px;
-  border-radius: 20px;
-  margin: 20px 0;
-  border: 3px solid #fff;
-  box-shadow: 0 0 30px rgba(255, 107, 53, 0.7);
 }
 
-.slot-container {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin: 20px 0;
-}
-
-.slot-reel {
-  width: 80px;
-  height: 80px;
-  background: #1a1a2e;
-  border: 3px solid #FFD23F;
-  border-radius: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 40px;
-  transition: all 0.3s ease;
-  cursor: pointer;
-}
-
-.slot-reel:hover {
-  animation: bounce 0.6s infinite;
-  background: linear-gradient(45deg, #FF6B35, #36BCF7);
-  transform: scale(1.1);
-}
-
-.spin-btn {
-  background: linear-gradient(45deg, #FF6B35, #F7931E);
-  color: white;
-  border: none;
-  padding: 15px 30px;
-  font-size: 18px;
-  font-weight: bold;
-  border-radius: 25px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  animation: glow 2s infinite;
-}
-
-.spin-btn:hover {
-  animation: shake 0.5s, glow 2s infinite;
-  transform: scale(1.1);
-  background: linear-gradient(45deg, #F7931E, #FFD23F);
-}
-
-.jackpot-display {
-  margin: 15px 0;
-  font-size: 24px;
-  font-weight: bold;
-  color: #FFD23F;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
-}
-
-/* Interactive Hover Cards */
-.hover-card {
+.skill-category {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   border-radius: 15px;
-  padding: 20px;
-  margin: 10px;
-  transition: all 0.4s ease;
+  padding: 25px;
   cursor: pointer;
+  transition: all 0.4s ease;
   border: 2px solid transparent;
+  animation: fadeIn 0.6s ease;
 }
 
-.hover-card:hover {
-  transform: translateY(-10px) scale(1.05);
-  box-shadow: 0 20px 40px rgba(102, 126, 234, 0.4);
-  border: 2px solid #FFD23F;
-  animation: glow 1s infinite;
+.skill-category:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 15px 30px rgba(102, 126, 234, 0.4);
+  border: 2px solid #36BCF7;
+  animation: bounce 0.6s ease, glow 2s infinite;
 }
 
-/* Gaming Stats Cards */
-.gaming-card {
+.skill-category h3 {
+  color: white;
+  margin: 0 0 15px 0;
+  font-size: 1.3em;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 15px 0;
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 10px;
+  transition: all 1s ease;
+  position: relative;
+}
+
+.frontend-fill { background: linear-gradient(90deg, #36BCF7, #667eea); }
+.backend-fill { background: linear-gradient(90deg, #764ba2, #667eea); }
+.database-fill { background: linear-gradient(90deg, #f093fb, #f5576c); }
+.tools-fill { background: linear-gradient(90deg, #4facfe, #00f2fe); }
+
+.skill-details {
+  color: white;
+  margin-top: 15px;
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.4s ease;
+}
+
+.skill-details.active {
+  opacity: 1;
+  max-height: 100px;
+}
+
+.skill-details p {
+  margin: 8px 0;
+  font-size: 0.9em;
+}
+
+.achievement-card {
   background: linear-gradient(45deg, #1a1a2e, #16213e);
-  border: 2px solid #FF6B35;
-  border-radius: 20px;
+  border: 2px solid #36BCF7;
+  border-radius: 15px;
   padding: 20px;
   margin: 15px;
   transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.achievement-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(54, 188, 247, 0.3);
+  border-color: #667eea;
+}
+
+.project-showcase {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 25px;
+  margin: 30px 0;
+}
+
+.project-card {
+  background: linear-gradient(135deg, #2c3e50, #3498db);
+  border-radius: 20px;
+  padding: 25px;
+  color: white;
+  transition: all 0.4s ease;
   cursor: pointer;
   position: relative;
   overflow: hidden;
 }
 
-.gaming-card::before {
+.project-card::before {
   content: '';
   position: absolute;
   top: -50%;
   left: -50%;
   width: 200%;
   height: 200%;
-  background: linear-gradient(45deg, transparent, rgba(255, 107, 53, 0.1), transparent);
+  background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
   transform: rotate(45deg);
   transition: all 0.6s ease;
   opacity: 0;
 }
 
-.gaming-card:hover::before {
+.project-card:hover::before {
   opacity: 1;
   transform: rotate(45deg) translate(50%, 50%);
 }
 
-.gaming-card:hover {
-  transform: rotateX(10deg) rotateY(10deg) scale(1.05);
-  box-shadow: 0 25px 50px rgba(255, 107, 53, 0.3);
-  border-color: #FFD23F;
+.project-card:hover {
+  transform: translateY(-10px) rotateX(5deg);
+  box-shadow: 0 25px 50px rgba(52, 152, 219, 0.3);
 }
 
-/* Glitch Effect */
-.glitch {
-  position: relative;
-  display: inline-block;
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
 }
 
-.glitch:hover::before {
-  content: attr(data-text);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: transparent;
-  color: #ff0000;
-  animation: glitch 0.3s infinite;
-  clip: rect(0, 900px, 0, 0);
-}
-
-@keyframes glitch {
-  0% { clip: rect(64px, 9999px, 66px, 0); }
-  5% { clip: rect(30px, 9999px, 36px, 0); }
-  10% { clip: rect(70px, 9999px, 71px, 0); }
-  /* ... more keyframes for glitch effect */
-  100% { clip: rect(67px, 9999px, 68px, 0); }
-}
-
-/* Neon Text Effect */
-.neon-text {
-  color: #fff;
-  text-shadow:
-    0 0 5px #FF6B35,
-    0 0 10px #FF6B35,
-    0 0 15px #FF6B35,
-    0 0 20px #FF6B35,
-    0 0 35px #FF6B35,
-    0 0 40px #FF6B35;
-  animation: flicker 1.5s infinite alternate;
-}
-
-@keyframes flicker {
-  0%, 18%, 22%, 25%, 53%, 57%, 100% {
-    text-shadow:
-      0 0 5px #FF6B35,
-      0 0 10px #FF6B35,
-      0 0 15px #FF6B35,
-      0 0 20px #FF6B35,
-      0 0 35px #FF6B35,
-      0 0 40px #FF6B35;
-  }
-  
-  20%, 24%, 55% {
-    text-shadow: none;
-  }
-}
-
-/* Interactive Progress Bars */
-.skill-bar {
-  width: 100%;
-  background: #1a1a2e;
-  border-radius: 25px;
-  padding: 3px;
-  margin: 10px 0;
+.stat-card {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  color: white;
   transition: all 0.3s ease;
   cursor: pointer;
 }
 
-.skill-bar:hover {
-  transform: scale(1.02);
-  box-shadow: 0 5px 15px rgba(255, 107, 53, 0.3);
+.stat-card:hover {
+  transform: scale(1.05) rotateY(5deg);
+  box-shadow: 0 15px 30px rgba(102, 126, 234, 0.4);
 }
 
-.skill-progress {
-  height: 25px;
-  border-radius: 25px;
-  background: linear-gradient(90deg, #FF6B35, #F7931E, #FFD23F);
-  transition: all 1s ease;
-  display: flex;
-  align-items: center;
-  padding-left: 15px;
-  color: white;
+.stat-number {
+  font-size: 2.5em;
   font-weight: bold;
+  margin: 10px 0;
 }
 
-.skill-bar:hover .skill-progress {
-  background: linear-gradient(90deg, #36BCF7, #8B5FBF, #FF6B35);
-  animation: rainbow 2s ease infinite;
+.stat-label {
+  font-size: 1.1em;
+  opacity: 0.9;
 }
-
 </style>
 
 <script>
-// Epic JavaScript Interactions
-function spinSlots() {
-  const reels = ['reel1', 'reel2', 'reel3'];
-  const symbols = ['🎮', '💻', '🔥', '⚡', '🚀', '💀', '🏆', '⭐', '💎', '🎯'];
-  const jackpot = document.getElementById('jackpot');
+function toggleSkillDetails(skillId) {
+  const details = document.getElementById(skillId + '-details');
+  details.classList.toggle('active');
   
-  // Spin animation
-  reels.forEach(reel => {
-    const element = document.getElementById(reel);
-    element.style.animation = 'spin 2s ease-in-out';
-    
-    setTimeout(() => {
-      const randomSymbol = symbols[Math.floor(Math.random() * symbols.length)];
-      element.textContent = randomSymbol;
-      element.style.animation = 'bounce 0.6s';
-    }, 1000);
-  });
-  
-  // Check for jackpot
-  setTimeout(() => {
-    const reel1 = document.getElementById('reel1').textContent;
-    const reel2 = document.getElementById('reel2').textContent;
-    const reel3 = document.getElementById('reel3').textContent;
-    
-    if (reel1 === reel2 && reel2 === reel3) {
-      jackpot.innerHTML = '🎉 JACKPOT! HIRE ME NOW! 🎉';
-      jackpot.style.animation = 'rainbow 1s infinite';
-      confetti();
-    } else {
-      jackpot.innerHTML = '🎯 SPIN AGAIN FOR EPIC LUCK! 🎯';
-    }
-  }, 2100);
-}
-
-function confetti() {
-  // Create confetti effect
-  for (let i = 0; i < 50; i++) {
-    createConfetti();
+  // Add some visual feedback
+  const category = details.parentElement;
+  if (details.classList.contains('active')) {
+    category.style.background = 'linear-gradient(135deg, #36BCF7, #667eea)';
+  } else {
+    category.style.background = 'linear-gradient(135deg, #667eea, #764ba2)';
   }
 }
 
-function createConfetti() {
-  const confetti = document.createElement('div');
-  confetti.style.position = 'fixed';
-  confetti.style.width = '10px';
-  confetti.style.height = '10px';
-  confetti.style.backgroundColor = `hsl(${Math.random() * 360}, 50%, 50%)`;
-  confetti.style.left = Math.random() * window.innerWidth + 'px';
-  confetti.style.top = '-10px';
-  confetti.style.zIndex = '1000';
-  confetti.style.pointerEvents = 'none';
-  document.body.appendChild(confetti);
-  
-  const fall = confetti.animate([
-    { transform: 'translateY(0) rotate(0deg)' },
-    { transform: `translateY(${window.innerHeight + 10}px) rotate(360deg)` }
-  ], {
-    duration: Math.random() * 2000 + 1000,
-    easing: 'ease-out'
+// Add progress bar animation on page load
+window.addEventListener('load', () => {
+  const progressBars = document.querySelectorAll('.progress-fill');
+  progressBars.forEach((bar, index) => {
+    setTimeout(() => {
+      bar.style.animation = 'progressFill 2s ease forwards';
+    }, index * 200);
   });
-  
-  fall.onfinish = () => confetti.remove();
+});
+
+// Add click counter for engagement
+let clickCount = 0;
+function trackEngagement() {
+  clickCount++;
+  if (clickCount === 5) {
+    showAchievement('Curious Explorer', 'You\'ve explored 5 sections!');
+  }
 }
 
-// Auto-spin on page load
-window.addEventListener('load', () => {
-  setTimeout(spinSlots, 1000);
-});
+function showAchievement(title, description) {
+  const achievement = document.createElement('div');
+  achievement.style.cssText = `
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: linear-gradient(45deg, #36BCF7, #667eea);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(54, 188, 247, 0.3);
+    z-index: 1000;
+    animation: fadeIn 0.5s ease;
+  `;
+  achievement.innerHTML = `<strong>🏆 ${title}</strong><br/>${description}`;
+  document.body.appendChild(achievement);
+  
+  setTimeout(() => achievement.remove(), 3000);
+}
+
+// Add event listeners to track clicks
+document.addEventListener('click', trackEngagement);
 </script>
 
-## 🎯 INTERACTIVE GAMING PROFILE
+## 🚀 Featured Projects Portfolio
 
-<div class="hover-card gaming-card">
-  
-### 🎮 EPIC GAMER STATS
-  
-```ascii
-╔══════════════════════════════════════════════════════════════════════╗
-║                    💀 SALILGUPTA17 ULTIMATE STATS 💀                 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ 🎯 Developer Level    │ ████████████████████████████████ MAXED OUT   ║
-║ ⚡ Gaming Rank        │ ████████████████████████████████ LEGENDARY   ║
-║ 🔥 Code Power         │ ████████████████████████████████ OVER 9000   ║
-║ 💀 Bug Kills         │ ████████████████████████████████ COUNTLESS   ║
-║ 🏆 Projects Deployed │ ████████████████████████████████ SUCCESS     ║
-║ 🎮 Current Status    │ Online - Ready to dominate!                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div class="project-showcase">
 
+<div class="project-card">
+  <h3>🏪 E-Commerce Platform</h3>
+  <p><strong>Tech Stack:</strong> React, Node.js, MongoDB, Stripe API</p>
+  <p><strong>Features:</strong> Complete shopping cart, payment integration, admin dashboard, inventory management</p>
+  <p><strong>Impact:</strong> Full-featured online store with secure transactions</p>
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </div>
 </div>
 
-## 🚀 INTERACTIVE TECH STACK
-
-<div align="center">
-
-### 💻 HOVER TO ACTIVATE SKILLS! 💻
-
-<div class="skill-bar">
-  <div class="skill-progress" style="width: 95%;">JavaScript/TypeScript - Master Level</div>
+<div class="project-card">
+  <h3>📊 Task Management System</h3>
+  <p><strong>Tech Stack:</strong> Next.js, TypeScript, PostgreSQL, Tailwind CSS</p>
+  <p><strong>Features:</strong> Project tracking, team collaboration, real-time updates, analytics dashboard</p>
+  <p><strong>Impact:</strong> Increased team productivity by 40% in testing</p>
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </div>
 </div>
 
-<div class="skill-bar">
-  <div class="skill-progress" style="width: 90%;">React/Next.js - Expert</div>
+<div class="project-card">
+  <h3>🌤️ Weather Analytics Dashboard</h3>
+  <p><strong>Tech Stack:</strong> Vue.js, Python Flask, Chart.js, Weather APIs</p>
+  <p><strong>Features:</strong> Real-time weather data, historical trends, interactive charts, location-based forecasts</p>
+  <p><strong>Impact:</strong> Comprehensive weather analysis tool</p>
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js"/>
+  </div>
 </div>
 
-<div class="skill-bar">
-  <div class="skill-progress" style="width: 88%;">Node.js/Express - Advanced</div>
-</div>
-
-<div class="skill-bar">
-  <div class="skill-progress" style="width: 85%;">Python/Java - Proficient</div>
-</div>
-
-<div class="skill-bar">
-  <div class="skill-progress" style="width: 92%;">Git/GitHub - Expert</div>
-</div>
-
-<div class="skill-bar">
-  <div class="skill-progress" style="width: 80%;">Database Design - Advanced</div>
-</div>
-
-</div>
-
-## 🎮 GAMING CONQUEST MAP
-
-<div align="center">
-
-### 🏆 PLATFORMS WHERE I DOMINATE 🏆
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div class="gaming-card">
-  <h4>🎯 Steam Gaming</h4>
-  <p><strong>Games Owned:</strong> 200+</p>
-  <p><strong>Hours Played:</strong> 2000+</p>
-  <a href="YOUR_STEAM_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-  </a>
-</div>
-
-<div class="gaming-card">
-  <h4>⚡ Discord Server</h4>
-  <p><strong>Members:</strong> 500+</p>
-  <p><strong>Status:</strong> Always Online</p>
-  <a href="YOUR_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
-<div class="gaming-card">
-  <h4>🔴 Twitch Streaming</h4>
-  <p><strong>Followers:</strong> Growing</p>
-  <p><strong>Content:</strong> Coding + Gaming</p>
-  <a href="YOUR_TWITCH" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-  </a>
+<div class="project-card">
+  <h3>🎓 Student Portal System</h3>
+  <p><strong>Tech Stack:</strong> Java Spring Boot, MySQL, Thymeleaf, Bootstrap</p>
+  <p><strong>Features:</strong> Student information management, grade tracking, course enrollment, attendance monitoring</p>
+  <p><strong>Impact:</strong> Academic project for GL Bajaj institute</p>
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  </div>
 </div>
 
 </div>
 
+## 📈 Academic & Professional Achievements
+
+<div class="stats-grid">
+
+<div class="achievement-card stat-card">
+  <div class="stat-number">15+</div>
+  <div class="stat-label">Projects Completed</div>
 </div>
 
-## 🎯 EPIC PROJECT SHOWCASE
-
-<div class="hover-card" data-text="GAMING PROJECT">
-  
-### 🎮 GameTracker Pro - Ultimate Gaming Dashboard
-
-**🛠️ Tech Stack**: React, Node.js, MongoDB, Socket.io  
-**🎯 Features**: Real-time stats, friend tracking, achievement system  
-**🔥 Status**: Live with 1000+ users  
-
-**Interactive Features:**
-- 🎰 Slot machine minigame for daily rewards
-- 📊 Animated charts showing gaming progress  
-- 🏆 Achievement unlock animations
-- 💬 Real-time chat with gaming buddies
-
+<div class="achievement-card stat-card">
+  <div class="stat-number">8.5</div>
+  <div class="stat-label">CGPA Maintained</div>
 </div>
 
-<div class="hover-card" data-text="WEB APP">
-  
-### ⚡ CodeBattle Arena - Competitive Programming Platform
+<div class="achievement-card stat-card">
+  <div class="stat-number">500+</div>
+  <div class="stat-label">GitHub Contributions</div>
+</div>
 
-**🛠️ Tech Stack**: Next.js, TypeScript, WebSockets  
-**🎯 Features**: Live coding battles, ranking system  
-**🔥 Status**: Beta with 500+ developers  
-
-**Epic Features:**
-- ⚔️ Real-time coding duels
-- 🏅 Leaderboard with animations
-- 🎨 Syntax highlighting with themes
-- 🎪 Spectator mode with live commentary
+<div class="achievement-card stat-card">
+  <div class="stat-number">3</div>
+  <div class="stat-label">Hackathons Won</div>
+</div>
 
 </div>
 
-## 📊 ANIMATED GITHUB STATS
+### 🎓 Academic Excellence
+- 📚 **Relevant Coursework**: Data Structures, Algorithms, DBMS, Software Engineering, Computer Networks
+- 🏆 **Achievements**: Dean's List, Academic Excellence Award, Top 10% of class
+- 💡 **Research Interests**: Machine Learning, Web Technologies, System Design
+- 👥 **Leadership**: Technical Lead in Computer Science Society
+
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
   
-<div class="gaming-card">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=ff6b35&title_color=ff6b35&icon_color=ff6b35"/>
+<div class="achievement-card">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="gaming-card">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&langs_count=8&theme=radical&border_color=ff6b35&title_color=ff6b35"/>
-</div>
-  
-<div class="gaming-card">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=radical&border=ff6b35&stroke=ff6b35&ring=ff6b35&fire=ff6b35" alt="GitHub Streak"/>
+<div class="achievement-card">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   
-<div class="gaming-card">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salilgupta17&theme=tokyo-night&bg_color=0d1117&color=ff6b35&line=ff6b6b&point=ff0000&area=true&hide_border=true"/>
+<div class="achievement-card">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
-</div>
-
-## 🎮 CURRENT GAMING STATUS
-
-<div align="center">
   
-<div class="hover-card">
-  
-### 💀 LIVE GAMING ACTIVITY 💀
-  
-**🎯 Main Game**: Currently dominating in Valorant  
-**🏆 Rank**: Immortal 3 (Top 1% globally)  
-**⚡ Status**: <span class="neon-text">ONLINE & READY TO CARRY</span>  
-**🔥 Streak**: 15 wins in ranked matches  
-
-**🎮 Weekly Schedule:**
-- **Monday-Friday**: Coding projects + evening gaming sessions
-- **Weekends**: Tournament participation & stream content
-- **Late Night**: Competitive ranked grinding
-
+<div class="achievement-card">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salilgupta17&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=1a1b27&area=true&hide_border=true"/>
 </div>
 
 </div>
 
-## 🌐 CONNECT & COLLABORATE
+## 🌐 Professional Connect
 
 <div align="center">
 
-### 📧 <span class="glitch" data-text="CONTACT INFO">CONTACT INFO</span>
+### 📧 Let's Build Something Amazing Together
 
 **📧 Email**: [salilgupta17@gmail.com](mailto:salilgupta17@gmail.com)  
-**💼 LinkedIn**: [Professional Network](YOUR_LINKEDIN)  
-**🎮 Portfolio**: [Epic Projects Showcase](YOUR_PORTFOLIO)  
+**💼 LinkedIn**: [Connect for opportunities](YOUR_LINKEDIN_PROFILE)  
+**🌐 Portfolio**: [View my complete work](YOUR_PORTFOLIO_WEBSITE)  
 
-### 🔗 GAMING & SOCIAL NETWORKS
+### 🔗 Professional Networks
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salilgupta17)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](YOUR_STEAM)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](YOUR_TWITCH)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salilgupta17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salilgupta17@gmail.com)
 
 </div>
+
+## 🚀 Current Learning Path
+
+### 🎯 2024 Goals & Focus Areas
+- **Advanced Frontend**: Mastering React ecosystem, performance optimization
+- **Backend Scalability**: Microservices architecture, cloud deployment
+- **Data Science**: Python for data analysis, machine learning fundamentals  
+- **DevOps**: Docker containerization, CI/CD pipelines, AWS services
+- **Open Source**: Contributing to meaningful projects, building community
+
+### 💡 What Drives Me
+- 🔥 **Passion for Problem Solving**: Love tackling complex technical challenges
+- 🚀 **Innovation Mindset**: Always exploring new technologies and methodologies
+- 👥 **Team Collaboration**: Believe in the power of collective intelligence
+- 📚 **Continuous Learning**: Staying updated with industry trends and best practices
+- 🌟 **Quality Focus**: Writing clean, maintainable, and efficient code
 
 ---
 
 <div align="center">
   
-<div class="slot-machine">
-  <h3>🎰 FINAL JACKPOT MESSAGE 🎰</h3>
-  <div class="neon-text">
-    ✨ Ready to level up your team? ✨<br/>
-    💀 Hire the ultimate gaming developer! 💀<br/>
-    🚀 Let's build something LEGENDARY! 🚀
-  </div>
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=tokyonight&column=3&margin-w=15&margin-h=15"/>
   
-<img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=radical&column=4&margin-w=15&margin-h=15"/>
+  ### 💫 *"Innovation distinguishes between a leader and a follower"* 💫
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11,12&height=150&section=footer&text=🎮%20GAME%20OVER%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  **⭐ Interested in collaboration? Let's connect and create! ⭐**
   
-![Profile Views](https://komarev.com/ghpvc/?username=salilgupta17&color=ff6b35&style=for-the-badge)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=120&section=footer&animation=fadeIn"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=salilgupta17&color=36BCF7&style=for-the-badge)
+  
+  *🚀 Ready to contribute to impactful projects and innovative solutions! 🚀*
   
 </div>
 
 <!-- 
-🎮 ACHIEVEMENT UNLOCKED: MOST INTERACTIVE GITHUB PROFILE EVER! 🎮
-
-Interactive Features Added:
-✅ Slot Machine with real spinning animation
-✅ Hover effects on all cards
-✅ Glitch text effects  
-✅ Neon glowing text
-✅ Animated progress bars
-✅ Confetti explosion on jackpot
-✅ 3D card transforms on hover
-✅ Rainbow gradient animations
-✅ Auto-spin on page load
-✅ Gaming-themed color schemes
-✅ Professional + Gaming balance
-
-🔗 Links to Update:
-- YOUR_STEAM_PROFILE
-- YOUR_DISCORD  
-- YOUR_TWITCH
-- YOUR_YOUTUBE
-- YOUR_LINKEDIN
-- YOUR_PORTFOLIO
+📝 CUSTOMIZATION CHECKLIST:
+✅ Replace YOUR_LINKEDIN with actual LinkedIn profile
+✅ Replace YOUR_PORTFOLIO with portfolio website  
+✅ Update email if different from salilgupta17@gmail.com
+✅ Add actual CGPA and achievements
+✅ Customize project details with real repositories
+✅ Update learning goals based on interests
+✅ Add specific coursework and grades if desired
 -->
