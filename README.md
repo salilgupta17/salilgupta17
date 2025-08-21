@@ -1420,4 +1420,341 @@
                 const progressBar = card.querySelector('.progress-bar');
                 const title = card.querySelector('.skill-title');
                 
-                progressBar
+                progressBar.style.width = '0%';
+                title.style.transform = 'scale(0.95)';
+                
+                setTimeout(() => {
+                    progressBar.style.width = percentage + '%';
+                    title.style.transform = 'scale(1.05)';
+                }, 100);
+                
+                setTimeout(() => {
+                    title.style.transform = 'scale(1)';
+                }, 500);
+                
+                showAchievement('Skill Showcased', `${percentage}% expertise demonstrated! 🎯`);
+            });
+        }
+
+        // Enhanced GitHub card animation
+        function animateGitHubCard(card) {
+            safeExecute(() => {
+                const avatar = card.querySelector('.github-avatar');
+                const counters = card.querySelectorAll('.stat-counter');
+                
+                avatar.style.transform = 'scale(1.2) rotate(360deg)';
+                counters.forEach(counter => animateStatCounter(counter));
+                
+                setTimeout(() => {
+                    avatar.style.transform = 'scale(1) rotate(0deg)';
+                }, 800);
+                
+                showAchievement('GitHub Stats', 'Exploring my development journey! 📊');
+            });
+        }
+
+        // Project card click handler
+        function projectClick(card, projectName) {
+            safeExecute(() => {
+                card.style.transform = 'scale(1.02) rotateY(5deg)';
+                setTimeout(() => {
+                    card.style.transform = 'translateY(-20px) rotateY(20deg) rotateX(15deg) scale(1.02)';
+                }, 200);
+                
+                showAchievement('Project Explored', `Checking out my ${projectName} project! 🚀`);
+            });
+        }
+
+        // Animate stat counter
+        function animateStatCounter(counter) {
+            safeExecute(() => {
+                if (animatedElements.has(counter)) return;
+                animatedElements.add(counter);
+                
+                const target = parseInt(counter.dataset.target);
+                const duration = 2000;
+                const increment = target / (duration / 16);
+                let current = 0;
+                
+                const updateCounter = () => {
+                    current += increment;
+                    if (current < target) {
+                        counter.textContent = Math.floor(current);
+                        requestAnimationFrame(updateCounter);
+                    } else {
+                        counter.textContent = target;
+                    }
+                };
+                
+                updateCounter();
+            });
+        }
+
+        // Enhanced counter animation for stats
+        function animateCounter(statItem) {
+            safeExecute(() => {
+                const counter = statItem.querySelector('.stat-number');
+                animateStatCounter(counter);
+                
+                statItem.style.transform = 'scale(1.1) rotateY(10deg)';
+                setTimeout(() => {
+                    statItem.style.transform = 'translateY(-15px) scale(1.08) rotateX(10deg)';
+                }, 200);
+                
+                showAchievement('Stats Viewed', 'Impressive numbers, right? 📈');
+            });
+        }
+
+        // Enhanced achievement system
+        function showAchievement(title, message) {
+            safeExecute(() => {
+                const popup = document.getElementById('achievement');
+                const titleEl = popup.querySelector('h3');
+                const textEl = document.getElementById('achievement-text');
+                
+                titleEl.textContent = `🏆 ${title}`;
+                textEl.textContent = message;
+                
+                popup.classList.add('show');
+                achievementCount++;
+                
+                setTimeout(() => {
+                    popup.classList.remove('show');
+                }, 4000);
+            });
+        }
+
+        // Interactive button functions
+        function triggerMegaConfetti() {
+            safeExecute(() => {
+                createConfettiExplosion();
+                showAchievement('Hire Me Clicked!', 'Ready to start an amazing project together! 💼');
+            });
+        }
+
+        function explorePortfolio() {
+            safeExecute(() => {
+                document.querySelector('.languages-section').scrollIntoView({ 
+                    behavior: 'smooth' 
+                });
+                showAchievement('Explorer Mode', 'Beginning the portfolio journey! 🗺️');
+            });
+        }
+
+        function createConfettiExplosion() {
+            safeExecute(() => {
+                for (let i = 0; i < 100; i++) {
+                    const confetti = document.createElement('div');
+                    confetti.style.position = 'fixed';
+                    confetti.style.left = Math.random() * window.innerWidth + 'px';
+                    confetti.style.top = '-10px';
+                    confetti.style.width = '10px';
+                    confetti.style.height = '10px';
+                    confetti.style.background = `hsl(${Math.random() * 360}, 70%, 60%)`;
+                    confetti.style.zIndex = '9999';
+                    confetti.style.animation = `confettiFall ${Math.random() * 2 + 3}s linear forwards`;
+                    
+                    document.body.appendChild(confetti);
+                    
+                    setTimeout(() => {
+                        if (confetti.parentNode) {
+                            confetti.parentNode.removeChild(confetti);
+                        }
+                    }, 5000);
+                }
+            });
+        }
+
+        // Floating action button functions
+        function scrollToTop() {
+            safeExecute(() => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+                showAchievement('Back to Top', 'Welcome back to the beginning! ⬆️');
+            });
+        }
+
+        function toggleTheme() {
+            safeExecute(() => {
+                const themes = [
+                    'linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe)',
+                    'linear-gradient(-45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffd93d, #ff8a80)',
+                    'linear-gradient(-45deg, #667eea, #764ba2, #f093fb, #f5576c)'
+                ];
+                
+                currentTheme = (currentTheme + 1) % themes.length;
+                document.body.style.background = themes[currentTheme];
+                document.body.style.backgroundSize = '400% 400%';
+                
+                showAchievement('Theme Changed', `Switched to theme ${currentTheme + 1}! 🎨`);
+            });
+        }
+
+        function shareProfile() {
+            safeExecute(() => {
+                if (navigator.share) {
+                    navigator.share({
+                        title: 'Salil Gupta - Full Stack Developer',
+                        text: 'Check out this amazing interactive portfolio!',
+                        url: window.location.href
+                    });
+                } else {
+                    navigator.clipboard.writeText(window.location.href);
+                    showAchievement('Link Copied', 'Portfolio URL copied to clipboard! 📋');
+                }
+            });
+        }
+
+        function downloadResume() {
+            showAchievement('Resume Request', 'Contact me for my latest resume! 📄');
+        }
+
+        function contactMe() {
+            safeExecute(() => {
+                document.querySelector('.contact-form').scrollIntoView({ 
+                    behavior: 'smooth' 
+                });
+                showAchievement('Contact Form', 'Ready to discuss your project! 📞');
+            });
+        }
+
+        // GitHub integration functions
+        function showContributionGraph() {
+            showAchievement('GitHub Activity', 'Check out my contribution graph on GitHub! 📊');
+        }
+
+        function showLanguageStats() {
+            showAchievement('Language Stats', 'Diverse tech stack for versatile solutions! 💻');
+        }
+
+        function showTopRepos() {
+            showAchievement('Top Repositories', 'Explore my best projects on GitHub! ⭐');
+        }
+
+        // Form submission
+        function submitForm() {
+            safeExecute(() => {
+                const name = document.getElementById('contactName').value;
+                const email = document.getElementById('contactEmail').value;
+                const project = document.getElementById('contactProject').value;
+                const message = document.getElementById('contactMessage').value;
+                
+                if (name && email && message) {
+                    showAchievement('Message Sent!', `Thanks ${name}! I'll get back to you soon! 📧`);
+                    // Clear form
+                    document.getElementById('contactName').value = '';
+                    document.getElementById('contactEmail').value = '';
+                    document.getElementById('contactProject').value = '';
+                    document.getElementById('contactMessage').value = '';
+                } else {
+                    showAchievement('Form Error', 'Please fill in all required fields! ⚠️');
+                }
+            });
+        }
+
+        function scheduleCall() {
+            showAchievement('Call Scheduled', 'Contact me at salilgupta2510@gmail.com to schedule! 📞');
+        }
+
+        // Performance monitoring
+        function initPerformanceMonitoring() {
+            safeExecute(() => {
+                // Enable performance mode on slower devices
+                if (navigator.hardwareConcurrency < 4) {
+                    performanceMode = true;
+                    matrixEnabled = false;
+                    document.body.classList.add('reduced-motion');
+                }
+                
+                // Monitor frame rate
+                let frameCount = 0;
+                let lastTime = performance.now();
+                
+                function checkPerformance() {
+                    frameCount++;
+                    const currentTime = performance.now();
+                    
+                    if (currentTime - lastTime > 1000) {
+                        const fps = frameCount;
+                        frameCount = 0;
+                        lastTime = currentTime;
+                        
+                        if (fps < 30 && !performanceMode) {
+                            performanceMode = true;
+                            matrixEnabled = false;
+                            document.body.classList.add('reduced-motion');
+                        }
+                    }
+                    
+                    requestAnimationFrame(checkPerformance);
+                }
+                
+                requestAnimationFrame(checkPerformance);
+            });
+        }
+
+        // Add CSS animations dynamically
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes confettiFall {
+                0% { transform: translateY(-100vh) rotate(0deg); opacity: 1; }
+                100% { transform: translateY(100vh) rotate(720deg); opacity: 0; }
+            }
+            
+            @keyframes trailFade {
+                0% { opacity: 1; transform: scale(1); }
+                100% { opacity: 0; transform: scale(0); }
+            }
+            
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+            
+            @keyframes pulse {
+                0%, 100% { opacity: 1; }
+                50% { opacity: 0.7; }
+            }
+            
+            .scroll-reveal {
+                opacity: 0;
+                transform: translateY(50px);
+                transition: all 0.8s ease-out;
+            }
+            
+            .scroll-reveal.revealed {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        `;
+        document.head.appendChild(style);
+
+        // Enhanced error handling
+        window.addEventListener('error', function(event) {
+            console.warn('Caught error:', event.error);
+            // Continue execution without breaking the page
+            event.preventDefault();
+        });
+
+        // Prevent context menu for better UX
+        document.addEventListener('contextmenu', function(e) {
+            e.preventDefault();
+        });
+
+        // Add keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            safeExecute(() => {
+                if (e.key === 'Escape') {
+                    document.getElementById('achievement').classList.remove('show');
+                }
+                if (e.key === ' ') {
+                    e.preventDefault();
+                    triggerMegaConfetti();
+                }
+                if (e.key === 't' || e.key === 'T') {
+                    toggleTheme();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
