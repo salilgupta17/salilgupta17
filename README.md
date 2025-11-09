@@ -131,7 +131,7 @@
 - 🔭 Working on mastering **Data Structures & Algorithms**
 - 🌱 Learning **React.js** and **Node.js** for full-stack development
 - 👯 Looking to collaborate on **open-source projects**
-- 🥅 2024 Goals: Contribute to major open-source projects and build impactful applications
+- 🥅 2025 Goals: Contribute to major open-source projects and build impactful applications
 - 💬 Ask me about **Java**, **Python**, **Web Development**, and **Problem Solving**
 
 ---
