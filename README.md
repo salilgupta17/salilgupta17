@@ -53,19 +53,12 @@
 
 <div align="center">
   <h2>🕹️ THE DEVELOPER ARCADE & INTERACTIVE MATRIX</h2>
-  <p><i>Welcome to the interactive gaming zone! Explore the commit grid snake game, chess matrix, and retro terminal arcade.</i></p>
+  <p><i>Welcome to the interactive gaming zone! Explore the commit grid, chess matrix, and retro terminal arcade.</i></p>
 </div>
 
 <br/>
 
-### 🐍 Game 1: The Contribution Grid Snake Engine
-<div align="center">
-  <img src="https://raw.githubusercontent.com/salilgupta17/salilgupta17/output/github-contribution-grid-snake.svg" alt="Snake Game Eating Commits" width="100%" />
-</div>
-
-<br/>
-
-### 🎮 Game 2: 100% Playable Tic-Tac-Toe vs Salil's AI Bot
+### 🎮 Game 1: 100% Playable Tic-Tac-Toe vs Salil's AI Bot
 > **🕹️ HOW TO PLAY:** Click on any cyan **`[ 💬 PLAY (Row, Col) ]`** button below! GitHub will prompt you to create a quick issue — simply click **"Submit new issue"** and the automated GitHub Bot will process your move, calculate its counter-move, and update the board live on this README!
 
 <div align="center">
@@ -84,7 +77,7 @@
 
 <br/>
 
-### 🚀 Game 3: Retro Space Invaders ASCII Matrix
+### 🚀 Game 2: Retro Space Invaders ASCII Matrix
 ```arcade
           👾   👾   👾   👾   👾   👾   👾   👾   👾   👾
             👾   👾   👾   👾   👾   👾   👾   👾   👾
@@ -100,7 +93,7 @@
 
 <br/>
 
-### ♟️ Game 4: Master Chess Matrix (Sicilian Defense Opening)
+### ♟️ Game 3: Master Chess Matrix (Sicilian Defense Opening)
 ```chess
        a   b   c   d   e   f   g   h
      ┌───┬───┬───┬───┬───┬───┬───┬───┐
@@ -125,7 +118,7 @@
 
 <br/>
 
-### 💣 Game 5: Terminal Minesweeper Matrix
+### 💣 Game 4: Terminal Minesweeper Matrix
 ```minesweeper
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                        💣 RETRO MINESWEEPER MATRIX                        ║
@@ -314,7 +307,7 @@ private:
   <h2>🧩 LEETCODE & PROBLEM SOLVING COMMAND CENTER</h2>
   <br/>
   <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-    <img src="https://github-readme-leetcode.vercel.app/api?username=salilgupta_7&theme=dark" alt="Salil's LeetCode Telemetry" width="520" />
+    <img src="https://img.shields.io/badge/LeetCode_Profile-salilgupta__7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </div>
 
@@ -359,11 +352,6 @@ private:
 
 <br/>
 
-<!-- Activity Wave Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salilgupta17&theme=tokyo-night&hide_border=false&area=true" alt="Activity Wave Graph" width="810" />
-
-<br/><br/>
-
 <!-- Continuous Activity Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=tokyonight&hide_border=false&border_radius=12" alt="Commitment Streak" width="810" />
 
@@ -373,10 +361,8 @@ private:
 
 <br/>
 
-
-
 <!-- ========================================================================================== -->
-<!--                                SECTION 9: DEVELOPER FAQ & Q&A                              -->
+<!--                                SECTION 8: DEVELOPER FAQ & Q&A                              -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -406,21 +392,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 10: DAILY WISDOM & QUOTES                           -->
-<!-- ========================================================================================== -->
-
-<div align="center">
-  <h2>💡 DAILY DEVELOPER WISDOM HUD</h2>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" width="810" />
-</div>
-
----
-
-<br/>
-
-<!-- ========================================================================================== -->
-<!--                                SECTION 11: CONNECT MATRIX & FOOTER                        -->
+<!--                                SECTION 9: CONNECT MATRIX & FOOTER                          -->
 <!-- ========================================================================================== -->
 
 <div align="center">
