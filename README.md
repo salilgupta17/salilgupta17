@@ -1,11 +1,11 @@
 <!-- ========================================================================================== -->
-<!--                        SALIL GUPTA (salilgupta17) - DEVELOPER PROFILE                       -->
+<!--            🩸 SALIL GUPTA (salilgupta17) - FULL BLOODY RED CRIMSON PROFILE 🩸               -->
 <!-- ========================================================================================== -->
 
 <div align="center">
 
-  <!-- Minimalist High-DPI Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#0d1117,30:#161b22,70:#21262d,100:#58a6ff&height=260&section=header&text=SALIL%20GUPTA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20C%2B%2B%20SPECIALIST%20%7C%20PROBLEM%20SOLVER&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Deep Blood Red Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#1a0000,20:#4a0000,50:#8b0000,75:#ff0000,100:#1a0000&height=280&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🩸%20C%2B%2B%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20ALGORITHMIC%20BEAST%20%E2%80%A2%20CRIMSON%20ENGINEER%20🩸&descAlignY=65&descAlign=50" width="100%" alt="Blood Red Hero Banner" />
 
 </div>
 
@@ -13,31 +13,31 @@
 
 <div align="center">
 
-  <!-- Animated Typing Banner -->
+  <!-- Blood Red Animated Typing Console -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B+I'm+Salil+Gupta;Passionate+Systems+Engineer+%26+C%2B%2B+Developer+%F0%9F%92%BB;Crushing+Data+Structures+%26+Algorithms;Active+LeetCode+Problem+Solver+%7C+%40salilgupta_7;Building+Scalable%2C+Clean+%26+Efficient+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=FF0033&center=true&vCenter=true&width=850&lines=%F0%9F%A9%B8+SYSTEM.BLOOD_RED_MODE()%3A+SALIL+GUPTA+NEURAL+CORE;%F0%9F%A7%A0+Architecting+High-Performance+C%2B%2B20%2F23+Engines;%F0%9F%8F%86+LeetCode+Problem+Solver+%7C+%40salilgupta_7;%F0%9F%94%A5+Crushing+Complex+Data+Structures+%26+Algorithms;%F0%9F%92%BB+Zero-Cost+Abstractions+%26+Low-Latency+Concurrency" alt="Blood Red Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Metric Badges -->
+  <!-- Blood Red Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=ff0033&style=for-the-badge&label=BLOOD+VIEWS+%F0%9F%A9%B8" alt="Views" />
     &nbsp;
     <a href="https://www.linkedin.com/in/salil-gupta-300106326" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/LeetCode-FF0033?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     &nbsp;
     <a href="mailto:salilhu001@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
     <a href="https://github.com/salilgupta17">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-4A0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -48,35 +48,36 @@
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 1: SYSTEM OVERVIEW                                  -->
+<!--                                SECTION 1: CRIMSON SYSTEM OVERVIEW                          -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>💻 DEVELOPER SPECIFICATIONS & OVERVIEW</h2>
+  <h2>🩸 CRIMSON SYSTEM OVERVIEW & SPECS</h2>
 </div>
 
 ```syslog
 ╔════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                            ║
-║   IDENTIFIER       :: Salil Gupta [salilgupta17]                                           ║
-║   ROLE             :: Software Engineer & C++ Specialist                                   ║
-║   LOCATION         :: India 🇮🇳 (UTC +05:30)                                                ║
-║   CORE STACK       :: C++20/23 • Data Structures & Algorithms • Systems Programming        ║
-║   COMPETITIVE      :: LeetCode Active (Handle: salilgupta_7)                               ║
-║   CONTACT          :: salilhu001@gmail.com                                                 ║
-║   STATUS           :: 🟢 ONLINE • BUILDING HIGH-PERFORMANCE SOFTWARE                       ║
+║   🩸 USER ALIAS      :: Salil Gupta [salilgupta17]                                         ║
+║   🔴 ROLE            :: C++ Systems Architect & Algorithmic Specialist                     ║
+║   📍 LOCATION MATRIX :: India 🇮🇳 [UTC +05:30]                                               ║
+║   ⚡ PRIMARY CORE    :: C++20/23 • Low-Level Optimization • Zero-Cost Abstractions               ║
+║   🎯 ARENA           :: LeetCode Pro [Handle: salilgupta_7]                                ║
+║   📫 CONTACT         :: salilhu001@gmail.com                                               ║
+║   🔴 SYSTEM STATUS   :: 🩸 FULL BLOODY RED MODE • 100% OPERATIONAL                         ║
 ║                                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details open>
-  <summary><b>🔍 Expand Architectural Profile & Technical Focus</b></summary>
+  <summary><b>🔍 Expand Crimson Profile & Architectural Focus</b></summary>
   <br/>
 
-  - 🔭 **Current Focus:** High-Performance C++ Applications, Low-Level Optimization, and Advanced DSA.
+  - 🔭 **Current Focus:** High-Performance C++ Applications, Low-Level Memory Optimization, and Advanced DSA.
   - 🌱 **Active Learning:** Modern C++ Memory Allocators, Multi-threading, and Distributed Systems Architecture.
   - 🧩 **Problem Solving:** Actively solving algorithmic challenges on [LeetCode](https://leetcode.com/u/salilgupta_7/).
   - 💬 **Ask Me About:** C++ Templates, STL Internals, Time Complexity Optimization, and OOP Principles.
+  - ⚡ **Crimson Motto:** *"Code with ruthless efficiency, eliminate latency, and leave zero memory leaks."*
 </details>
 
 ---
@@ -84,11 +85,11 @@
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 2: TECH STACK MATRIX                                -->
+<!--                                SECTION 2: TECH MATRIX                                      -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🛠️ TECHNICAL SKILLS & TOOLS</h2>
+  <h2>🛠️ CRIMSON TECH MATRIX & ARSENAL</h2>
   <br/>
   
   <a href="https://skillicons.dev">
@@ -103,11 +104,11 @@
     <td width="50%" valign="top" align="center">
       <h3>💻 Programming Languages</h3>
       <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C11-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-FF0033?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C11-8B0000?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python_3-CC0000?style=for-the-badge&logo=python&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
@@ -128,18 +129,18 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Skill Proficiency Overview</h3>
+  <h3>🩸 Blood Red Power Meter</h3>
 </div>
 
 ```cpp
 #include <iostream>
 
 int main() {
-    std::cout << "C++ Systems & STL Internals  :: ████████████████████ 98%\n";
-    std::cout << "Data Structures & Algorithms :: ██████████████████░░ 92%\n";
-    std::cout << "Low-Level Memory Management  :: █████████████████░░░ 90%\n";
-    std::cout << "System Architecture & OOP    :: ███████████████░░░░░ 85%\n";
-    std::cout << "Web Technologies             :: ██████████████░░░░░░ 80%\n";
+    std::cout << "🩸 C++ Systems & STL Internals  :: ████████████████████ 99.9% [CRIMSON GOD]\n";
+    std::cout << "🩸 Data Structures & Algorithms :: ██████████████████░░ 95.0% [MASTER]\n";
+    std::cout << "🩸 Low-Level Memory Management  :: █████████████████░░░ 92.5% [BEAST]\n";
+    std::cout << "🩸 System Architecture & OOP    :: ███████████████░░░░░ 88.0% [PRO]\n";
+    std::cout << "🩸 Web Stack & Frontend UI/UX   :: ██████████████░░░░░░ 85.0% [NINJA]\n";
     return 0;
 }
 ```
@@ -149,14 +150,14 @@ int main() {
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 3: C++ PERFORMANCE SHOWCASE                        -->
+<!--                                SECTION 3: C++ PERFORMANCE CODE                             -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>⚡ ADVANCED C++ CODE & ARCHITECTURE</h2>
+  <h2>⚡ CRIMSON C++ ENGINE: LOCK-FREE MEMORY ALLOCATOR</h2>
 </div>
 
-#### 🧠 High-Throughput Memory Pool Allocator Snippet
+#### 🧠 High-Speed Memory Pool Allocator Snippet
 ```cpp
 template <typename T, std::size_t BlockSize = 4096>
 class MemoryPool {
@@ -190,10 +191,10 @@ private:
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🧩 LEETCODE & PROBLEM SOLVING PROFILE</h2>
+  <h2>🧩 LEETCODE ARENA</h2>
   <br/>
   <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-salilgupta__7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode_Profile-salilgupta__7-FF0033?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
@@ -202,13 +203,13 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 5: 3D TROPHIES                                      -->
+<!--                                SECTION 5: BLOOD TROPHIES                                   -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🏆 GITHUB TROPHY VAULT</h2>
+  <h2>🏆 BLOOD RED ISOMETRIC TROPHY VAULT</h2>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=onedark&no-frame=false&no-background=true&margin-w=15&row=2" alt="Trophies" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=blood&no-frame=false&no-background=true&margin-w=15&row=2" alt="Blood Trophies" width="98%" />
 </div>
 
 ---
@@ -228,17 +229,17 @@ private:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=12&line_height=26" alt="Stats" width="415" />
+      <img src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=blood&hide_border=false&include_all_commits=true&count_private=true&border_radius=12&line_height=26" alt="Stats" width="415" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" alt="Languages" width="375" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&theme=blood&hide_border=false&border_radius=12" alt="Languages" width="375" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=tokyonight&hide_border=false&border_radius=12" alt="Streak" width="810" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=blood&hide_border=false&border_radius=12" alt="Streak" width="810" />
 
 </div>
 
@@ -284,25 +285,25 @@ private:
   <h2>🌐 CONNECT WITH SALIL GUPTA</h2>
   <br/>
   <a href="https://www.linkedin.com/in/salil-gupta-300106326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FF0033?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:salilhu001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/salilgupta17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-4A0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <!-- Minimalist Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#0d1117,30:#161b22,70:#21262d,100:#58a6ff&height=160&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Deep Blood Red Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#1a0000,20:#4a0000,50:#8b0000,75:#ff0000,100:#1a0000&height=160&section=footer" width="100%" alt="Footer Banner" />
 </div>
