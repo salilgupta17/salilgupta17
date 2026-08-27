@@ -182,7 +182,15 @@
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🛠️ 3D HIGH-OCTANE TECH MATRIX</h2>
+  <h2>🛠️ 3D HIGH-OCTANE TECH MATRIX & VISUAL SKILLS</h2>
+  <br/>
+  
+  <!-- 3D SkillIcons Graphic Palette -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,git,github,vscode,linux,windows,cmake,bash&theme=dark&perline=7" alt="3D Skill Icons Palette" />
+  </a>
+
+  <br/><br/>
 </div>
 
 <table align="center" width="100%">
