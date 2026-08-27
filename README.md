@@ -1,11 +1,11 @@
 <!-- ========================================================================================== -->
-<!--     ⚡ SALIL GUPTA (salilgupta17) - MAXIMUM HYPER-CRAZY NEON CYBERPUNK MATRIX ⚡           -->
+<!--     ⚡ SALIL GUPTA (salilgupta17) - THE MOST CRAZY HYPER-NEON CYBER PROFILE ON GITHUB ⚡     -->
 <!-- ========================================================================================== -->
 
 <div align="center">
 
-  <!-- Hyper-Neon Explosive Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,20:#7000ff,40:#00f5ff,60:#00ff66,80:#ffaa00,100:#ff0055&height=290&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🔥%20C%2B%2B%20CYBER-GOD%20%E2%80%A2%20ALGORITHM%20NINJA%20%E2%80%A2%20FULL-STACK%20OVERLORD%20🔥&descAlignY=65&descAlign=50" width="100%" alt="Hyper-Neon Banner" />
+  <!-- Hyper-Supernova 7-Color Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,15:#7000ff,30:#00f5ff,45:#00ff66,60:#ffaa00,75:#ff00ea,100:#ff0055&height=300&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🔥%20C%2B%2B%20SYSTEMS%20GOD%20%E2%80%A2%20ALGORITHM%20NINJA%20%E2%80%A2%20FULL-STACK%20OVERLORD%20🔥&descAlignY=65&descAlign=50" width="100%" alt="Hyper Banner" />
 
 </div>
 
@@ -13,9 +13,9 @@
 
 <div align="center">
 
-  <!-- 3D Glowing Animated Typing Console -->
+  <!-- Flashing 3D Glowing Animated Typing Console -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SYSTEM.OVERLOAD()%3A+SALIL+GUPTA'S+HYPER-NEON+DIMENSION!;%F0%9F%A7%A0+Crushing+C%2B%2B20%2F23+Templates%2C+Zero-Cost+Allocators+%26+Deep+DSA;%F0%9F%8F%86+LeetCode+Master+%7C+%40salilgupta_7;%F0%9F%8E%AE+Interactive+Playable+Arcade+%26+Hyper-HUD;%F0%9F%94%A5+Converting+Coffee+%2B+Cyberpunk+Lo-Fi+Into+God-Tier+Code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=%E2%9A%A1+SYSTEM.OVERLOAD()%3A+SALIL+GUPTA'S+HYPER-NEON+DIMENSION!;%F0%9F%A7%A0+Crushing+C%2B%2B20%2F23+Templates%2C+Zero-Cost+Allocators+%26+Deep+DSA;%F0%9F%8F%86+LeetCode+Master+%7C+%40salilgupta_7;%F0%9F%94%A5+Converting+Coffee+%2B+Cyberpunk+Lo-Fi+Into+God-Tier+Code!;%F0%9F%92%BB+Low-Latency+Concurrency+%26+Zero-Cache-Miss+Engines" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -67,7 +67,7 @@
 ```gdb
  /\_/\
 ( o.o )  <-- SALIL'S C++ OVERLORD BOT
- > ^ <   [ STATUS: DESTROYING CACHE MISSES & OVERCLOCKING CPU ]
+ > ^ <   [ STATUS: DESTROYING CACHE MISSES & OVERCLOCKING CPU TO 5.5 GHz ]
 ```
 
 ```syslog
@@ -78,14 +78,14 @@
 ║   📍 BASE COORDINATE:: India 🇮🇳 [UTC +05:30]                                               ║
 ║   ⚡ MAIN WEAPON    :: C++20 / C++23 • Zero-Cost Abstractions • Extreme Memory Pool Optimization║
 ║   🎯 ARENA          :: LeetCode Pro (Handle: salilgupta_7)                                 ║
-║   🎧 TELEMETRY      :: 🎧 Lo-Fi Beats: 100% • ☕ Coffee Level: 999% • ⚡ Mode: BEAST          ║
-║   🟢 SYSTEM STATUS  :: 100% OPERATIONAL • ZERO MEMORY LEAKS • OVERCLOCKED                     ║
+║   🎧 SOUNDTRACK     :: 🎧 Cyberpunk 2077 Beats • ☕ Coffee Level: OVER 9000% • ⚡ Mode: BEAST   ║
+║   🟢 SYSTEM STATUS  :: 100% OPERATIONAL • ZERO MEMORY LEAKS • HYPER-OVERCLOCKED               ║
 ║                                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details open>
-  <summary><b>✨ TAP TO DECRYPT SALIL'S CRAZY NEURAL PROFILE</b></summary>
+  <summary><b>✨ TAP TO DECRYPT SALIL'S HYPER NEURAL PROFILE</b></summary>
   <br/>
 
   - 🌌 **The Vibe:** Writing insane, high-throughput, cache-optimized C++ code with crazy cyberpunk swagger.
@@ -97,10 +97,10 @@
 
 ---
 
-
+<br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 3: 3D SKILLS PALETTE                                -->
+<!--                                SECTION 2: 3D SKILLS PALETTE                                -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -165,7 +165,7 @@ int main() {
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 4: CRAZY BENCHMARKS                                 -->
+<!--                                SECTION 3: CRAZY BENCHMARKS                                 -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -198,7 +198,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 5: LEETCODE ARENA                                   -->
+<!--                                SECTION 4: LEETCODE ARENA                                   -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -214,7 +214,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 6: 3D TROPHIES                                      -->
+<!--                                SECTION 5: 3D TROPHIES                                      -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -228,7 +228,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 7: TELEMETRY & STATS                                -->
+<!--                                SECTION 6: TELEMETRY & STATS                                -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -259,7 +259,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 8: FAQ                                              -->
+<!--                                SECTION 7: FAQ                                              -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -289,7 +289,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 9: CONNECT                                          -->
+<!--                                SECTION 8: CONNECT                                          -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -315,6 +315,6 @@ private:
 <br/><br/>
 
 <div align="center">
-  <!-- Hyper-Neon Explosive Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,20:#7000ff,40:#00f5ff,60:#00ff66,80:#ffaa00,100:#ff0055&height=150&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Hyper-Supernova 7-Color Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,15:#7000ff,30:#00f5ff,45:#00ff66,60:#ffaa00,75:#ff00ea,100:#ff0055&height=160&section=footer" width="100%" alt="Footer Banner" />
 </div>
