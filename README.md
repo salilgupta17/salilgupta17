@@ -374,49 +374,7 @@ private:
 
 <br/>
 
-<!-- ========================================================================================== -->
-<!--                                SECTION 8: FEATURED PROJECTS                                -->
-<!-- ========================================================================================== -->
 
-<div align="center">
-  <h2>📌 FEATURED SYSTEMS & REPOSITORIES</h2>
-</div>
-
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th width="30%">🚀 Project / Repository</th>
-      <th width="50%">💡 System Architecture & Highlights</th>
-      <th width="20%">⚡ Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/salilgupta17"><b>⚡ CP-Algorithms-Engine</b></a></td>
-      <td>High-speed C++ implementations of advanced data structures (Segment Trees, Fenwick Trees, Disjoint Set Union) and dynamic programming algorithms.</td>
-      <td><code>C++20</code> <code>STL</code> <code>DSA</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/salilgupta17"><b>🌐 Cyber-Web-Suite</b></a></td>
-      <td>Modern interactive web applications engineered with responsive UI/UX, glassmorphic themes, and dynamic JavaScript logic.</td>
-      <td><code>JavaScript</code> <code>CSS3</code> <code>HTML5</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/salilgupta17"><b>⚙️ Low-Level-Systems</b></a></td>
-      <td>Exploring C++ memory management, custom allocators, pointer manipulation, and multithreading synchronization.</td>
-      <td><code>C++</code> <code>Linux</code> <code>GDB</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/salilgupta17"><b>🚀 Lock-Free-Queue-Lib</b></a></td>
-      <td>Ultra-low latency MPMC (Multi-Producer Multi-Consumer) concurrent queue implementation with zero locks.</td>
-      <td><code>C++20</code> <code>Atomics</code> <code>POSIX</code></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<br/>
 
 <!-- ========================================================================================== -->
 <!--                                SECTION 9: DEVELOPER FAQ & Q&A                              -->
