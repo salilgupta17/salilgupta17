@@ -1,11 +1,11 @@
 <!-- ========================================================================================== -->
-<!--     ⚡ SALIL GUPTA (salilgupta17) - THE MOST CRAZY HIGH-TECH PROFILE ON GITHUB ⚡           -->
+<!--     🔴 SALIL GUPTA (salilgupta17) - CNN BREAKING NEWS LIVE DEVELOPER BROADCAST 🔴           -->
 <!-- ========================================================================================== -->
 
 <div align="center">
 
-  <!-- Hyper-Supernova 7-Color Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,15:#7000ff,30:#00f5ff,45:#00ff66,60:#ffaa00,75:#ff00ea,100:#ff0055&height=300&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🔥%20C%2B%2B%20SYSTEMS%20GOD%20%E2%80%A2%20ALGORITHM%20NINJA%20%E2%80%A2%20FULL-STACK%20OVERLORD%20🔥&descAlignY=65&descAlign=50" width="100%" alt="Hyper Banner" />
+  <!-- CNN Live News Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#cc0000,20:#8b0000,40:#1a1a1a,70:#cc0000,100:#000000&height=280&section=header&text=🔴%20CNN%20LIVE%20NEWS%20%7C%20SALIL%20GUPTA&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=BREAKING%20NEWS%3A%20C%2B%2B%20SYSTEMS%20ARCHITECT%20UNVEILS%20HIGH-SPEED%20ENGINE&descAlignY=65&descAlign=50" width="100%" alt="CNN Live Banner" />
 
 </div>
 
@@ -13,31 +13,31 @@
 
 <div align="center">
 
-  <!-- Flashing 3D Glowing Animated Typing Console -->
+  <!-- Live Ticker Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=%E2%9A%A1+SYSTEM.OVERLOAD()%3A+SALIL+GUPTA'S+HYPER-NEON+DIMENSION!;%F0%9F%A7%A0+Crushing+C%2B%2B20%2F23+Templates%2C+Zero-Cost+Allocators+%26+Deep+DSA;%F0%9F%8F%86+LeetCode+Master+%7C+%40salilgupta_7;%F0%9F%94%A5+Converting+Coffee+%2B+Cyberpunk+Lo-Fi+Into+God-Tier+Code!;%F0%9F%92%BB+Low-Latency+Concurrency+%26+Zero-Cache-Miss+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=%F0%9F%94%B4+LIVE+TICKER%3A+SALIL+GUPTA+DOMINATES+C%2B%2B20%2F23+SYSTEMS!;%F0%9F%93%B0+BREAKING%3A+Zero-Cost+Allocators+%26+Cache-Aligned+Memory+Deployed;%F0%9F%8F%86+LEETCODE+SPECIAL+REPORT%3A+%40salilgupta_7+Crushing+Hard+DSA;%E2%9A%A1+SPECIAL+COVERAGE%3A+Zero+Memory+Leaks+Detected+in+Production" alt="CNN Live Ticker" />
   </a>
 
   <br/><br/>
 
-  <!-- Explosive Glowing Badges -->
+  <!-- Live Broadcast Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=ff0055&style=for-the-badge&label=NEURAL+POWER+%F0%9F%94%A5" alt="Power" />
+    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=cc0000&style=for-the-badge&label=LIVE+VIEWERS+%F0%9F%93%B6" alt="Live Viewers" />
     &nbsp;
     <a href="https://www.linkedin.com/in/salil-gupta-300106326" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/CNN_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/CNN_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     &nbsp;
     <a href="mailto:salilhu001@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/CNN_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
     <a href="https://github.com/salilgupta17">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/CNN_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -48,77 +48,53 @@
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 1: MASSIVE 3D BLOCK CAT                            -->
+<!--                                SECTION 1: CNN LIVE STUDIO BROADCAST                       -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🐱 MASSIVE 3D BLOCK-ART CAT MASCOT 🐱</h2>
+  <h2>🔴 CNN LIVE BROADCAST - NEWSROOM STUDIO 4</h2>
 </div>
 
 ```text
-                        /|___|\
-                       (  o.o  )  <-- SALIL'S NEURAL CAT
-                        >  ^  <   [ STATUS: BEAST MODE ]
-                       /       \
-                      / |     | \
-                     /  |     |  \
-                    (   |     |   )
-                     `" `"   `" `"
-
-          ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-          ████████████████████████████████████████████████████████
-          ████████████████████████████████████████████████████████
-          ████████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀████████
-          ██████▀   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   ▀██████
-          █████▌   ██████████████████████████████████   ▐█████
-          █████▌   ███▀▀▀▀▀▀████████████████▀▀▀▀▀▀███   ▐█████
-          █████▌   ███  ⚡⚡  ███████████████  ⚡⚡  ███   ▐█████
-          █████▌   ███▄▄▄▄▄▄███████████████▄▄▄▄▄▄███   ▐█████
-          █████▌   ██████████████████████████████████   ▐█████
-          █████▌   ████████████▀▀  ▼  ▀▀█████████████   ▐█████
-          █████▌   ████████████▄▄     ▄▄█████████████   ▐█████
-          █████▌   ██████████████████████████████████   ▐█████
-          ██████▄   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ▄██████
-          ████████▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄████████
-          ████████████████████████████████████████████████████████
-          ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-               ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-               █   /\_/\   █  SALIL'S 3D CYBER-CAT OVERLORD █
-               █  ( ⚡.⚡ )  █  STATUS: OVERCLOCKED TO 5.5 GHz █
-               █   > ^ <   █  MEMORY LEAKS: ZERO DETECTED  █
-               ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-          ▲_▲                                                       ▲_▲
-      ( °.°)  ╔═════════════════════════════════════════════════╗  (°.° )
-      />  < \ │  3D BLOCK-ART CAT ENGINE • CODED BY SALIL GUPTA │ / >  <\
-     (   |   )│  "WRITING HIGH-THROUGHPUT C++ WITH ZERO LEAKS"  │(   |   )
-      "  "  " ╚═════════════════════════════════════════════════╝ "  "  "
+ ╔═════════════════════════════════════════════════════════════════════════════════════════╗
+ ║  🔴 CNN LIVE BROADCAST • SPECIAL DEVELOPER REPORT                                       ║
+ ║  ┌───────────────────────────────────────────────────────────────────────────────────┐  ║
+ ║  │                                                                                   │  ║
+ ║  │                        /|___|\                                                    │  ║
+ ║  │                       (  o.o  )  <-- SALIL'S NEWSROOM CAT MASCOT                  │  ║
+ ║  │                        >  ^  <   [ ON-AIR: LIVE 24/7 TRANSMISSION ]               │  ║
+ ║  │                       /       \                                                   │  ║
+ ║  │                      / |     | \                                                  │  ║
+ ║  │                                                                                   │  ║
+ ║  └───────────────────────────────────────────────────────────────────────────────────┘  ║
+ ║  [CNN TICKER]: BREAKING: SALIL GUPTA'S C++ ENGINE ACCELERATES DSA PERFORMANCE BY 500%  ║
+ ╚═════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ```syslog
 ╔════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                            ║
-║   👾 PILOT ALIAS    :: Salil Gupta [salilgupta17]                                          ║
-║   🔮 CLASS          :: Code Alchemist • C++ Systems God • Algorithmic Overlord             ║
-║   📍 BASE COORDINATE:: India 🇮🇳 [UTC +05:30]                                               ║
-║   ⚡ MAIN WEAPON    :: C++20 / C++23 • Zero-Cost Abstractions • Extreme Memory Pool Optimization║
-║   🎯 ARENA          :: LeetCode Pro (Handle: salilgupta_7)                                 ║
-║   🎧 SOUNDTRACK     :: 🎧 Cyberpunk 2077 Beats • ☕ Coffee Level: OVER 9000% • ⚡ Mode: BEAST   ║
-║   🟢 SYSTEM STATUS  :: 100% OPERATIONAL • ZERO MEMORY LEAKS • HYPER-OVERCLOCKED               ║
+║   🔴 BROADCAST ID    :: CNN LIVE - SALIL GUPTA [salilgupta17]                              ║
+║   📺 SPECIALTY       :: C++ Systems Architect • High-Throughput Developer                  ║
+║   📍 STUDIO LOCATION :: India 🇮🇳 [UTC +05:30]                                                ║
+║   ⚡ PRIMARY ENGINE   :: C++20 / C++23 • Zero-Cost Abstractions • Extreme Cache Optimization ║
+║   🎯 LEETCODE DESK   :: LeetCode Active (Handle: salilgupta_7)                                 ║
+║   📊 RATING          :: 🔴 100% LIVE • ZERO MEMORY LEAKS • ALL SYSTEMS GO                      ║
 ║                                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details open>
-  <summary><b>✨ TAP TO DECRYPT SALIL'S HYPER NEURAL PROFILE</b></summary>
+  <summary><b>📰 CLICK TO READ CNN SPECIAL INVESTIGATIVE REPORT ON SALIL GUPTA</b></summary>
   <br/>
 
-  - 🌌 **The Vibe:** Writing insane, high-throughput, cache-optimized C++ code with crazy cyberpunk swagger.
-  - 🔭 **Current Quest:** Building lock-free ring buffers, custom arena allocators, and graph algorithms.
-  - ⚡ **Superpower:** Crushing Hard Dynamic Programming & Tree problems on [LeetCode](https://leetcode.com/u/salilgupta_7/).
-  - 💬 **Ask Me Anything:** C++ STL internals, Pointers, Memory Alignment, Web Tech, Time/Space Complexity.
-  - 🔥 **Motto:** *"Code fast, destroy latency, zero memory leaks, and break the matrix."*
+  > 📺 **CNN TOP STORY: THE RISE OF A C++ ARCHITECT**
+  > **NEW DELHI / ONLINE** — In a major technical release, developer **Salil Gupta** demonstrated ultra-fast C++ memory allocation techniques and zero-cost abstractions that eliminate cache misses.
+
+  - 📰 **Headline 1:** Salil Gupta pushes C++20 templates to maximum efficiency with zero memory leaks.
+  - 📰 **Headline 2:** Daily LeetCode algorithmic problem solving reaches record speed ([@salilgupta_7](https://leetcode.com/u/salilgupta_7/)).
+  - 📰 **Headline 3:** Multithreading lock-free queue benchmarks outpace standard mutexes by 10x.
+  - 💬 **On-Air Interview Quote:** *"Write code so efficient that the CPU pipeline runs at maximum velocity."*
 </details>
 
 ---
@@ -126,11 +102,11 @@
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 2: 3D SKILLS PALETTE                                -->
+<!--                                SECTION 2: CNN TECH MATRIX                                  -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>💥 3D TECH PALETTE & WEAPONS ARSENAL</h2>
+  <h2>🛠️ CNN LIVE TECH MATRIX & ARSENAL</h2>
   <br/>
   
   <a href="https://skillicons.dev">
@@ -145,9 +121,9 @@
     <td width="50%" valign="top" align="center">
       <h3>💻 Programming Languages</h3>
       <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-FF0055?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C11-00F5FF?style=for-the-badge&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python_3-7000FF?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-CC0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C11-1A1A1A?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -170,18 +146,18 @@
 <br/>
 
 <div align="center">
-  <h3>🔥 Crazy Overclocked Power Gauge</h3>
+  <h3>🔴 CNN LIVE PERFORMANCE POLL METRICS</h3>
 </div>
 
 ```cpp
 #include <iostream>
 
 int main() {
-    std::cout << "C++ Systems & STL Internals  :: ████████████████████ 99.9% [GOD TIER]\n";
-    std::cout << "Data Structures & Algorithms :: ██████████████████░░ 95.0% [MASTER]\n";
-    std::cout << "Low-Level Optimization       :: █████████████████░░░ 92.5% [BEAST]\n";
-    std::cout << "System Architecture & OOP    :: ███████████████░░░░░ 88.0% [PRO]\n";
-    std::cout << "Web Stack & Frontend UI/UX   :: ██████████████░░░░░░ 85.0% [NINJA]\n";
+    std::cout << "🔴 C++ Systems & STL Internals  :: ████████████████████ 99.9% [CNN TOP CHOICE]\n";
+    std::cout << "🔴 Data Structures & Algorithms :: ██████████████████░░ 95.0% [MASTER]\n";
+    std::cout << "🔴 Low-Level Optimization       :: █████████████████░░░ 92.5% [BEAST]\n";
+    std::cout << "🔴 System Architecture & OOP    :: ███████████████░░░░░ 88.0% [PRO]\n";
+    std::cout << "🔴 Web Stack & Frontend UI/UX   :: ██████████████░░░░░░ 85.0% [NINJA]\n";
     return 0;
 }
 ```
@@ -191,11 +167,11 @@ int main() {
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 3: CRAZY BENCHMARKS                                 -->
+<!--                                SECTION 3: CNN SPECIAL CODE SHOWCASE                        -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>⚡ CRAZY LOCK-FREE C++ ATOMIC ENGINE</h2>
+  <h2>⚡ CNN SPECIAL REPORT: LOCK-FREE C++ ATOMIC ENGINE</h2>
 </div>
 
 #### 🧠 High-Throughput Lock-Free Ring Buffer Snippet
@@ -224,14 +200,14 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 4: LEETCODE ARENA                                   -->
+<!--                                SECTION 4: LEETCODE DESK                                    -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🧩 LEETCODE ARENA</h2>
+  <h2>🧩 LEETCODE SPECIAL REPORTING DESK</h2>
   <br/>
   <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-salilgupta__7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/CNN_LeetCode_Profile-salilgupta__7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
@@ -246,7 +222,7 @@ private:
 <div align="center">
   <h2>🏆 3D ISOMETRIC TROPHY VAULT</h2>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=synthwave&no-frame=false&no-background=true&margin-w=15&row=2" alt="Trophies" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=onedark&no-frame=false&no-background=true&margin-w=15&row=2" alt="Trophies" width="98%" />
 </div>
 
 ---
@@ -266,17 +242,17 @@ private:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&border_radius=12&line_height=26" alt="Stats" width="415" />
+      <img src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=12&line_height=26" alt="Stats" width="415" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&theme=synthwave&hide_border=false&border_radius=12" alt="Languages" width="375" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" alt="Languages" width="375" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=synthwave&hide_border=false&border_radius=12" alt="Streak" width="810" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=tokyonight&hide_border=false&border_radius=12" alt="Streak" width="810" />
 
 </div>
 
@@ -289,7 +265,7 @@ private:
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>❓ FREQUENTLY ASKED QUESTIONS</h2>
+  <h2>❓ FREQUENTLY ASKED QUESTIONS (FAQ)</h2>
 </div>
 
 <details>
@@ -322,25 +298,25 @@ private:
   <h2>🌐 CONNECT WITH SALIL GUPTA</h2>
   <br/>
   <a href="https://www.linkedin.com/in/salil-gupta-300106326" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/CNN_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/CNN_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:salilhu001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/CNN_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/salilgupta17" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/CNN_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <!-- Hyper-Supernova 7-Color Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,15:#7000ff,30:#00f5ff,45:#00ff66,60:#ffaa00,75:#ff00ea,100:#ff0055&height=160&section=footer" width="100%" alt="Footer Banner" />
+  <!-- CNN Live News Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#cc0000,20:#8b0000,40:#1a1a1a,70:#cc0000,100:#000000&height=160&section=footer" width="100%" alt="Footer Banner" />
 </div>
