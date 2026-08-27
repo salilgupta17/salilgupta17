@@ -65,23 +65,22 @@
 
 <br/>
 
-### 🎯 Game 2: Interactive Terminal Tic-Tac-Toe
-```gdb
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                      🎮 SALIL'S TIC-TAC-TOE BOARD                         ║
-║                                                                           ║
-║                        ┌───────┬───────┬───────┐                          ║
-║                        │   X   │   O   │   X   │                          ║
-║                        ├───────┼───────┼───────┤                          ║
-║                        │   O   │   X   │   O   │                          ║
-║                        ├───────┼───────┼───────┤                          ║
-║                        │   X   │   X   │   O   │                          ║
-║                        └───────┴───────┴───────┘                          ║
-║                                                                           ║
-║                  GAME STATE :: 🏆 PLAYER X WINS BY DIAGONAL               ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+### 🎮 Game 2: 100% Playable Tic-Tac-Toe vs Salil's AI Bot
+> **🕹️ HOW TO PLAY:** Click on any cyan **`[ 💬 PLAY (Row, Col) ]`** button below! GitHub will prompt you to create a quick issue — simply click **"Submit new issue"** and the automated GitHub Bot will process your move, calculate its counter-move, and update the board live on this README!
+
+<div align="center">
+
+| | Column 1 | Column 2 | Column 3 |
+| :---: | :---: | :---: | :---: |
+| **Row 1** | [![X](https://img.shields.io/badge/---❌----1e232a?style=for-the-badge)](#) | [![O](https://img.shields.io/badge/---⭕----1e232a?style=for-the-badge)](#) | [<img src="https://img.shields.io/badge/-%F0%9F%92%AC_PLAY_(1%2C3)-00F5FF?style=for-the-badge" />](https://github.com/salilgupta17/salilgupta17/issues/new?title=ttt%7Cmove%7C1%7C3&body=Click+%27Submit+new+issue%27+to+make+this+move!) |
+| **Row 2** | [<img src="https://img.shields.io/badge/-%F0%9F%92%AC_PLAY_(2%2C1)-00F5FF?style=for-the-badge" />](https://github.com/salilgupta17/salilgupta17/issues/new?title=ttt%7Cmove%7C2%7C1&body=Click+%27Submit+new+issue%27+to+make+this+move!) | [![X](https://img.shields.io/badge/---❌----1e232a?style=for-the-badge)](#) | [<img src="https://img.shields.io/badge/-%F0%9F%92%AC_PLAY_(2%2C3)-00F5FF?style=for-the-badge" />](https://github.com/salilgupta17/salilgupta17/issues/new?title=ttt%7Cmove%7C2%7C3&body=Click+%27Submit+new+issue%27+to+make+this+move!) |
+| **Row 3** | [<img src="https://img.shields.io/badge/-%F0%9F%92%AC_PLAY_(3%2C1)-00F5FF?style=for-the-badge" />](https://github.com/salilgupta17/salilgupta17/issues/new?title=ttt%7Cmove%7C3%7C1&body=Click+%27Submit+new+issue%27+to+make+this+move!) | [<img src="https://img.shields.io/badge/-%F0%9F%92%AC_PLAY_(3%2C2)-00F5FF?style=for-the-badge" />](https://github.com/salilgupta17/salilgupta17/issues/new?title=ttt%7Cmove%7C3%7C2&body=Click+%27Submit+new+issue%27+to+make+this+move!) | [![O](https://img.shields.io/badge/---⭕----1e232a?style=for-the-badge)](#) |
+
+<br/>
+
+[🔄 **Click Here to Reset Game Board**](https://github.com/salilgupta17/salilgupta17/issues/new?title=ttt%7Creset&body=Click+%27Submit+new+issue%27+to+reset+the+game+board!)
+
+</div>
 
 <br/>
 
