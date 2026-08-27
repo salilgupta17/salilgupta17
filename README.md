@@ -1,5 +1,5 @@
 <!-- ========================================================================================== -->
-<!--     ⚡ SALIL GUPTA (salilgupta17) - THE MOST CRAZY HYPER-NEON CYBER PROFILE ON GITHUB ⚡     -->
+<!--     ⚡ SALIL GUPTA (salilgupta17) - THE MOST CRAZY HIGH-TECH PROFILE ON GITHUB ⚡           -->
 <!-- ========================================================================================== -->
 
 <div align="center">
