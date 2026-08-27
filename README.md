@@ -1,11 +1,11 @@
 <!-- ========================================================================================== -->
-<!--       ⚡ SALIL GUPTA (salilgupta17) - CRAZY CYBERPUNK & NEON AESTHETIC PROFILE ⚡          -->
+<!--     ⚡ SALIL GUPTA (salilgupta17) - MAXIMUM HYPER-CRAZY NEON CYBERPUNK MATRIX ⚡           -->
 <!-- ========================================================================================== -->
 
 <div align="center">
 
-  <!-- Holographic Cyberpunk Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#0f0c29,20:#302b63,40:#24243e,70:#ff007f,100:#00f5ff&height=280&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🔥%20C%2B%2B%20CYBER-ARCHITECT%20%E2%80%A2%20ALGORITHM%20NINJA%20%E2%80%A2%20FULL-STACK%20WIZARD%20🔥&descAlignY=65&descAlign=50" width="100%" alt="Crazy Neon Banner" />
+  <!-- Hyper-Neon Explosive Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,20:#7000ff,40:#00f5ff,60:#00ff66,80:#ffaa00,100:#ff0055&height=290&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🔥%20C%2B%2B%20CYBER-GOD%20%E2%80%A2%20ALGORITHM%20NINJA%20%E2%80%A2%20FULL-STACK%20OVERLORD%20🔥&descAlignY=65&descAlign=50" width="100%" alt="Hyper-Neon Banner" />
 
 </div>
 
@@ -15,14 +15,14 @@
 
   <!-- 3D Glowing Animated Typing Console -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF007F&center=true&vCenter=true&width=850&lines=%E2%9A%A1+SYSTEM.OVERDRIVE()%3A+WELCOME+TO+SALIL'S+NEON+MATRIX!;%F0%9F%A7%A0+Crushing+C%2B%2B20%2F23%2C+Low-Level+Pointers+%26+Deep+DSA;%F0%9F%8F%86+LeetCode+Grandmaster+in+Training+%7C+%40salilgupta_7;%F0%9F%8E%AE+Interactive+Playable+Arcade+%26+Cyber-HUD;%F0%9F%94%A5+Turning+Coffee+%26+Lo-Fi+Beats+Into+Pure+God-Tier+Code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SYSTEM.OVERLOAD()%3A+SALIL+GUPTA'S+HYPER-NEON+DIMENSION!;%F0%9F%A7%A0+Crushing+C%2B%2B20%2F23+Templates%2C+Zero-Cost+Allocators+%26+Deep+DSA;%F0%9F%8F%86+LeetCode+Master+%7C+%40salilgupta_7;%F0%9F%8E%AE+Interactive+Playable+Arcade+%26+Hyper-HUD;%F0%9F%94%A5+Converting+Coffee+%2B+Cyberpunk+Lo-Fi+Into+God-Tier+Code!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Glowing Badges -->
+  <!-- Explosive Glowing Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=ff007f&style=for-the-badge&label=NEURAL+HITS+%F0%9F%91%81%EF%B8%8F" alt="Hits" />
+    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=ff0055&style=for-the-badge&label=NEURAL+POWER+%F0%9F%94%A5" alt="Power" />
     &nbsp;
     <a href="https://www.linkedin.com/in/salil-gupta-300106326" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -48,11 +48,11 @@
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 1: CRAZY ASCII HUD                                 -->
+<!--                                SECTION 1: HYPER ASCII HUD                                 -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>✨ CYBER SANCTUARY & SYSTEM HUD</h2>
+  <h2>🔥 THE HYPER-NEON ASCII MATRIX 🔥</h2>
 </div>
 
 ```ascii
@@ -64,28 +64,35 @@
  ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
 ```
 
+```gdb
+ /\_/\
+( o.o )  <-- SALIL'S C++ OVERLORD BOT
+ > ^ <   [ STATUS: DESTROYING CACHE MISSES & OVERCLOCKING CPU ]
+```
+
 ```syslog
 ╔════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                            ║
 ║   👾 PILOT ALIAS    :: Salil Gupta [salilgupta17]                                          ║
-║   🔮 CLASS          :: Code Alchemist • C++ Systems Specialist • Algorithm Ninja           ║
+║   🔮 CLASS          :: Code Alchemist • C++ Systems God • Algorithmic Overlord             ║
 ║   📍 BASE COORDINATE:: India 🇮🇳 [UTC +05:30]                                               ║
-║   ⚡ MAIN WEAPON    :: C++20 / C++23 • Zero-Cost Abstractions • Extreme Optimization        ║
-║   🎯 ARENA          :: LeetCode Active (Handle: salilgupta_7)                              ║
-║   🎧 VIBE CHECK     :: Lo-Fi Beats On • ☕ Coffee Level: 99% • Code Status: 100% BEAST        ║
+║   ⚡ MAIN WEAPON    :: C++20 / C++23 • Zero-Cost Abstractions • Extreme Memory Pool Optimization║
+║   🎯 ARENA          :: LeetCode Pro (Handle: salilgupta_7)                                 ║
+║   🎧 TELEMETRY      :: 🎧 Lo-Fi Beats: 100% • ☕ Coffee Level: 999% • ⚡ Mode: BEAST          ║
+║   🟢 SYSTEM STATUS  :: 100% OPERATIONAL • ZERO MEMORY LEAKS • OVERCLOCKED                     ║
 ║                                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details open>
-  <summary><b>✨ TAP TO UNLOCK SALIL'S NEURAL PROFILE</b></summary>
+  <summary><b>✨ TAP TO DECRYPT SALIL'S CRAZY NEURAL PROFILE</b></summary>
   <br/>
 
-  - 🌌 **The Vibe:** Crafting ultra-fast, memory-optimized C++ code with sleek aesthetics.
-  - 🔭 **Current Quest:** Building lock-free data structures, memory pools, and dynamic algorithms.
-  - ⚡ **Superpower:** Solving complex Dynamic Programming & Graph puzzles on [LeetCode](https://leetcode.com/u/salilgupta_7/).
+  - 🌌 **The Vibe:** Writing insane, high-throughput, cache-optimized C++ code with crazy cyberpunk swagger.
+  - 🔭 **Current Quest:** Building lock-free ring buffers, custom arena allocators, and graph algorithms.
+  - ⚡ **Superpower:** Crushing Hard Dynamic Programming & Tree problems on [LeetCode](https://leetcode.com/u/salilgupta_7/).
   - 💬 **Ask Me Anything:** C++ STL internals, Pointers, Memory Alignment, Web Tech, Time/Space Complexity.
-  - 🔥 **Motto:** *"Code fast, optimize memory, break the limits, and never stop building."*
+  - 🔥 **Motto:** *"Code fast, destroy latency, zero memory leaks, and break the matrix."*
 </details>
 
 ---
@@ -97,7 +104,7 @@
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🕹️ THE PLAYABLE CYBER ARCADE</h2>
+  <h2>🕹️ THE PLAYABLE CRAZY CYBER ARCADE</h2>
   <p><i>Click any button below to play live against Salil's AI Bot right on this README!</i></p>
 </div>
 
@@ -170,7 +177,7 @@
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>💥 3D TECH PALETTE & ARSENAL</h2>
+  <h2>💥 3D TECH PALETTE & WEAPONS ARSENAL</h2>
   <br/>
   
   <a href="https://skillicons.dev">
@@ -185,7 +192,7 @@
     <td width="50%" valign="top" align="center">
       <h3>💻 Programming Languages</h3>
       <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-FF007F?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-FF0055?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/C11-00F5FF?style=for-the-badge&logo=c&logoColor=black" />
       <img src="https://img.shields.io/badge/Python_3-7000FF?style=for-the-badge&logo=python&logoColor=white" />
       <br/><br/>
@@ -210,18 +217,18 @@
 <br/>
 
 <div align="center">
-  <h3>🔥 Power Level Gauge</h3>
+  <h3>🔥 Crazy Overclocked Power Gauge</h3>
 </div>
 
 ```cpp
 #include <iostream>
 
 int main() {
-    std::cout << "C++ Systems & STL Internals  :: ████████████████████ 98%\n";
-    std::cout << "Data Structures & Algorithms :: ██████████████████░░ 92%\n";
-    std::cout << "Low-Level Optimization       :: █████████████████░░░ 90%\n";
-    std::cout << "System Architecture & OOP    :: ███████████████░░░░░ 85%\n";
-    std::cout << "Web Stack & Frontend UI/UX   :: ██████████████░░░░░░ 80%\n";
+    std::cout << "C++ Systems & STL Internals  :: ████████████████████ 99.9% [GOD TIER]\n";
+    std::cout << "Data Structures & Algorithms :: ██████████████████░░ 95.0% [MASTER]\n";
+    std::cout << "Low-Level Optimization       :: █████████████████░░░ 92.5% [BEAST]\n";
+    std::cout << "System Architecture & OOP    :: ███████████████░░░░░ 88.0% [PRO]\n";
+    std::cout << "Web Stack & Frontend UI/UX   :: ██████████████░░░░░░ 85.0% [NINJA]\n";
     return 0;
 }
 ```
@@ -231,35 +238,31 @@ int main() {
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 4: ADVANCED BENCHMARKS                              -->
+<!--                                SECTION 4: CRAZY BENCHMARKS                                 -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>⚡ HIGH-PERFORMANCE C++ CODE</h2>
+  <h2>⚡ CRAZY LOCK-FREE C++ ATOMIC ENGINE</h2>
 </div>
 
-#### 🧠 Custom Memory Pool Allocator
+#### 🧠 High-Throughput Lock-Free Ring Buffer Snippet
 ```cpp
-template <typename T, std::size_t BlockSize = 4096>
-class MemoryPool {
+template <typename T, std::size_t Capacity>
+class LockFreeRingBuffer {
 public:
-    template <typename... Args>
-    T* allocate(Args&&... args) {
-        if (!freeList_) allocateBlock();
-        Slot_* currentSlot = freeList_;
-        freeList_ = freeList_->next;
-        return new (&currentSlot->element) T(std::forward<Args>(args)...);
-    }
-    void deallocate(T* p) noexcept {
-        if (p != nullptr) {
-            reinterpret_cast<Slot_*>(p)->next = freeList_;
-            freeList_ = reinterpret_cast<Slot_*>(p);
+    bool push(const T& item) {
+        std::size_t head = head_.load(std::memory_order_relaxed);
+        if ((tail_.load(std::memory_order_acquire) + Capacity - head) % Capacity == 1) {
+            return false; // Buffer Full
         }
+        buffer_[head] = item;
+        head_.store((head + 1) % Capacity, std::memory_order_release);
+        return true;
     }
 private:
-    union Slot_ { T element; Slot_* next; };
-    Slot_* freeList_ = nullptr;
-    void allocateBlock() { /* High-speed allocation */ }
+    alignas(64) std::atomic<std::size_t> head_{0};
+    alignas(64) std::atomic<std::size_t> tail_{0};
+    T buffer_[Capacity];
 };
 ```
 
@@ -268,7 +271,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 5: LEETCODE HUB                                     -->
+<!--                                SECTION 5: LEETCODE ARENA                                   -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -385,6 +388,6 @@ private:
 <br/><br/>
 
 <div align="center">
-  <!-- Neon Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#0f0c29,20:#302b63,40:#24243e,70:#ff007f,100:#00f5ff&height=140&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Hyper-Neon Explosive Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#ff0055,20:#7000ff,40:#00f5ff,60:#00ff66,80:#ffaa00,100:#ff0055&height=150&section=footer" width="100%" alt="Footer Banner" />
 </div>
