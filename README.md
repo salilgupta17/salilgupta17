@@ -1,11 +1,11 @@
 <!-- ========================================================================================== -->
-<!--            🩸 SALIL GUPTA (salilgupta17) - FULL BLOODY RED CRIMSON PROFILE 🩸               -->
+<!--            🩸 SALIL GUPTA (salilgupta17) - 100% FULL BLOODY RED PROFILE 🩸                 -->
 <!-- ========================================================================================== -->
 
 <div align="center">
 
   <!-- Deep Blood Red Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#1a0000,20:#4a0000,50:#8b0000,75:#ff0000,100:#1a0000&height=280&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🩸%20C%2B%2B%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20ALGORITHMIC%20BEAST%20%E2%80%A2%20CRIMSON%20ENGINEER%20🩸&descAlignY=65&descAlign=50" width="100%" alt="Blood Red Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#1a0000,20:#4a0000,50:#8b0000,75:#ff0000,100:#1a0000&height=280&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🩸%20C%2B%2B%20BLOOD%20ARCHITECT%20%E2%80%A2%20ALGORITHMIC%20BEAST%20%E2%80%A2%20CRIMSON%20ENGINEER%20🩸&descAlignY=65&descAlign=50" width="100%" alt="Blood Red Hero Banner" />
 
 </div>
 
