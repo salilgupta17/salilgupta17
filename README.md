@@ -1,11 +1,11 @@
 <!-- ========================================================================================== -->
-<!--             SALIL GUPTA (salilgupta17) - THE ULTIMATE 1000-LINE DEVELOPER HUD              -->
+<!--       ⚡ SALIL GUPTA (salilgupta17) - CRAZY CYBERPUNK & NEON AESTHETIC PROFILE ⚡          -->
 <!-- ========================================================================================== -->
 
 <div align="center">
 
-  <!-- 3D Neon Glassmorphism Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:161b22,70:21262d,100:0d1117&height=260&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=36&desc=⚡%20C%2B%2B%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20ALGORITHMIC%20MASTER%20%E2%80%A2%20FULL-STACK%20ENGINEER%20⚡&descAlignY=65&descAlign=50" width="100%" alt="3D Hero Banner" />
+  <!-- Holographic Cyberpunk Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#0f0c29,20:#302b63,40:#24243e,70:#ff007f,100:#00f5ff&height=280&section=header&text=S%20A%20L%20I%20L%20%20%20G%20U%20P%20T%20A&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=🔥%20C%2B%2B%20CYBER-ARCHITECT%20%E2%80%A2%20ALGORITHM%20NINJA%20%E2%80%A2%20FULL-STACK%20WIZARD%20🔥&descAlignY=65&descAlign=50" width="100%" alt="Crazy Neon Banner" />
 
 </div>
 
@@ -15,17 +15,17 @@
 
   <!-- 3D Glowing Animated Typing Console -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+SYSTEM.INITIALIZE()%3A+SALIL+GUPTA+NEURAL+MATRIX;%F0%9F%A7%A0+Mastering+C%2B%2B20%2F23%2C+Low-Level+Systems+%26+Algorithms;%F0%9F%8F%86+LeetCode+Problem+Solver+%7C+%40salilgupta_7;%F0%9F%8E%AE+Interactive+Developer+Arcade+%26+3D+HUD+Dashboard;%F0%9F%9A%80+Architecting+Scalable%2C+Zero-Cost+Software+Solutions;%F0%9F%92%BB+Low-Latency+Concurrency+%26+Memory-Efficient+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF007F&center=true&vCenter=true&width=850&lines=%E2%9A%A1+SYSTEM.OVERDRIVE()%3A+WELCOME+TO+SALIL'S+NEON+MATRIX!;%F0%9F%A7%A0+Crushing+C%2B%2B20%2F23%2C+Low-Level+Pointers+%26+Deep+DSA;%F0%9F%8F%86+LeetCode+Grandmaster+in+Training+%7C+%40salilgupta_7;%F0%9F%8E%AE+Interactive+Playable+Arcade+%26+Cyber-HUD;%F0%9F%94%A5+Turning+Coffee+%26+Lo-Fi+Beats+Into+Pure+God-Tier+Code!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- 3D Badge Pills -->
+  <!-- Glowing Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=58a6ff&style=for-the-badge&label=SYSTEM+VIEWS+%F0%9F%91%81%EF%B8%8F" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=salilgupta17&color=ff007f&style=for-the-badge&label=NEURAL+HITS+%F0%9F%91%81%EF%B8%8F" alt="Hits" />
     &nbsp;
     <a href="https://www.linkedin.com/in/salil-gupta-300106326" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
@@ -48,17 +48,62 @@
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 1: DEVELOPER ARCADE & GAMES                          -->
+<!--                                SECTION 1: CRAZY ASCII HUD                                 -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🕹️ THE DEVELOPER ARCADE & INTERACTIVE MATRIX</h2>
-  <p><i>Welcome to the interactive gaming zone! Explore the commit grid, chess matrix, and retro terminal arcade.</i></p>
+  <h2>✨ CYBER SANCTUARY & SYSTEM HUD</h2>
+</div>
+
+```ascii
+ ███████╗ █████╗ ██╗     ██╗██╗      ██████╗ ██╗   ██╗██████╗ ████████╗██╗  ██╗
+ ██╔════╝██╔══██╗██║     ██║██║     ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██║  ██║
+ ███████╗███████║██║     ██║██║     ██║  ███╗██║   ██║██████╔╝   ██║   ███████║
+ ╚════██║██╔══██║██║     ██║██║     ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
+ ███████║██║  ██║███████╗██║███████╗╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
+ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
+```
+
+```syslog
+╔════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                            ║
+║   👾 PILOT ALIAS    :: Salil Gupta [salilgupta17]                                          ║
+║   🔮 CLASS          :: Code Alchemist • C++ Systems Specialist • Algorithm Ninja           ║
+║   📍 BASE COORDINATE:: India 🇮🇳 [UTC +05:30]                                               ║
+║   ⚡ MAIN WEAPON    :: C++20 / C++23 • Zero-Cost Abstractions • Extreme Optimization        ║
+║   🎯 ARENA          :: LeetCode Active (Handle: salilgupta_7)                              ║
+║   🎧 VIBE CHECK     :: Lo-Fi Beats On • ☕ Coffee Level: 99% • Code Status: 100% BEAST        ║
+║                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<details open>
+  <summary><b>✨ TAP TO UNLOCK SALIL'S NEURAL PROFILE</b></summary>
+  <br/>
+
+  - 🌌 **The Vibe:** Crafting ultra-fast, memory-optimized C++ code with sleek aesthetics.
+  - 🔭 **Current Quest:** Building lock-free data structures, memory pools, and dynamic algorithms.
+  - ⚡ **Superpower:** Solving complex Dynamic Programming & Graph puzzles on [LeetCode](https://leetcode.com/u/salilgupta_7/).
+  - 💬 **Ask Me Anything:** C++ STL internals, Pointers, Memory Alignment, Web Tech, Time/Space Complexity.
+  - 🔥 **Motto:** *"Code fast, optimize memory, break the limits, and never stop building."*
+</details>
+
+---
+
+<br/>
+
+<!-- ========================================================================================== -->
+<!--                                SECTION 2: PLAYABLE ARCADE                                  -->
+<!-- ========================================================================================== -->
+
+<div align="center">
+  <h2>🕹️ THE PLAYABLE CYBER ARCADE</h2>
+  <p><i>Click any button below to play live against Salil's AI Bot right on this README!</i></p>
 </div>
 
 <br/>
 
-### 🎮 Game 1: 100% Playable Tic-Tac-Toe vs Salil's AI Bot
+### 🎮 100% Playable Tic-Tac-Toe vs Salil's AI Bot
 > **🕹️ HOW TO PLAY:** Click on any cyan **`[ 💬 PLAY (Row, Col) ]`** button below! GitHub will prompt you to create a quick issue — simply click **"Submit new issue"** and the automated GitHub Bot will process your move, calculate its counter-move, and update the board live on this README!
 
 <div align="center">
@@ -77,7 +122,7 @@
 
 <br/>
 
-### 🚀 Game 2: Retro Space Invaders ASCII Matrix
+### 🚀 Retro Space Invaders
 ```arcade
           👾   👾   👾   👾   👾   👾   👾   👾   👾   👾
             👾   👾   👾   👾   👾   👾   👾   👾   👾
@@ -93,7 +138,7 @@
 
 <br/>
 
-### ♟️ Game 3: Master Chess Matrix (Sicilian Defense Opening)
+### ♟️ Chess Matrix (Sicilian Defense)
 ```chess
        a   b   c   d   e   f   g   h
      ┌───┬───┬───┬───┬───┬───┬───┬───┐
@@ -116,78 +161,20 @@
        a   b   c   d   e   f   g   h
 ```
 
-<br/>
-
-### 💣 Game 4: Terminal Minesweeper Matrix
-```minesweeper
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                        💣 RETRO MINESWEEPER MATRIX                        ║
-║                                                                           ║
-║                        [ 1 ] [ 1 ] [ 1 ] [   ] [   ]                      ║
-║                        [ 1 ] [ 🚩] [ 2 ] [ 1 ] [ 1 ]                      ║
-║                        [ 1 ] [ 2 ] [ 3 ] [ 🚩] [ 1 ]                      ║
-║                        [   ] [ 1 ] [ 🚩] [ 2 ] [ 1 ]                      ║
-║                        [   ] [ 1 ] [ 1 ] [ 1 ] [   ]                      ║
-║                                                                           ║
-║                     STATUS :: 🚩 3 BOMBS FLAGGED • 0 BOOMS                ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
 ---
 
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 2: SYSTEM DIAGNOSTICS HUD                           -->
+<!--                                SECTION 3: 3D SKILLS PALETTE                                -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🖥️ SYSTEM DIAGNOSTICS & TERMINAL HUD</h2>
-</div>
-
-```syslog
-┌─── [ ⚡ SALIL GUPTA :: NEURAL HARDWARE SPECS ] ───────────────────────────────────────────┐
-│                                                                                           │
-│   USER ALIAS      :: Salil Gupta (@salilgupta17)                                           │
-│   PRIMARY CORE    :: C++20 / C++23 • Low-Latency Systems • Multithreading Engine          │
-│   SECONDARY CORE  :: Data Structures & Advanced Algorithms • System Architecture          │
-│   COMPETITIVE HUB :: LeetCode Pro [Handle: salilgupta_7]                                  │
-│   LOCATION MATRIX :: India 🇮🇳 [UTC +05:30]                                                │
-│   NEURAL LINK     :: salilhu001@gmail.com                                                 │
-│   OPERATIONAL     :: 🟢 ONLINE 100% • 0 MEMORY LEAKS DETECTED                              │
-│                                                                                           │
-└───────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-<details open>
-  <summary><b>🔍 Expand Architectural Profile & Technical Mission</b></summary>
-  <br/>
-
-  > 🌌 **ABOUT ME**
-  > I am a performance-driven Software Engineer with a relentless obsession for low-level optimization, high-throughput systems architecture, and algorithmic mastery. My core expertise lies in designing zero-cost abstractions in C++ and building responsive, ultra-scalable software systems.
-
-  - 🔭 **Current Pursuits:** Building custom lock-free data structures, memory pool allocators, and high-performance algorithms.
-  - 🌱 **Active Learning:** Deepening knowledge in C++ Concepts, Coroutines, Cache Locality Optimization, and Distributed Systems.
-  - 🧩 **Problem Solving:** Actively tackling Hard & Medium algorithmic challenges on [LeetCode](https://leetcode.com/u/salilgupta_7/).
-  - 💬 **Ask Me About:** C++ Pointers & References, STL Under the Hood, Cache Alignment, Dynamic Programming, and Graph Theory.
-  - ⚡ **Engineering Mantra:** *"Measure twice, optimize once, and eliminate cache misses."*
-</details>
-
----
-
-<br/>
-
-<!-- ========================================================================================== -->
-<!--                                SECTION 3: 3D TECH MATRIX                                  -->
-<!-- ========================================================================================== -->
-
-<div align="center">
-  <h2>🛠️ 3D HIGH-OCTANE TECH MATRIX & VISUAL SKILLS</h2>
+  <h2>💥 3D TECH PALETTE & ARSENAL</h2>
   <br/>
   
-  <!-- 3D SkillIcons Graphic Palette -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,git,github,vscode,linux,windows,cmake,bash&theme=dark&perline=7" alt="3D Skill Icons Palette" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,git,github,vscode,linux,windows,cmake,bash&theme=dark&perline=7" alt="3D Skill Icons" />
   </a>
 
   <br/><br/>
@@ -198,16 +185,16 @@
     <td width="50%" valign="top" align="center">
       <h3>💻 Programming Languages</h3>
       <br/>
-      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C11-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B20%2F23-FF007F?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C11-00F5FF?style=for-the-badge&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python_3-7000FF?style=for-the-badge&logo=python&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>⚙️ Tools, OS & Debuggers</h3>
+      <h3>⚙️ Tools & Operating Systems</h3>
       <br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -223,31 +210,19 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Skill Mastery Levels & Execution Metrics</h3>
+  <h3>🔥 Power Level Gauge</h3>
 </div>
 
 ```cpp
 #include <iostream>
-#include <vector>
-#include <string>
 
-struct SkillMeter {
-    std::string category;
-    int masteryPercentage;
-    std::string progressBar;
-};
-
-void printSkills() {
-    std::vector<SkillMeter> skills = {
-        {"C++ Systems & STL Internals",  98, "████████████████████ 98%"},
-        {"Data Structures & Algorithms", 92, "██████████████████░░ 92%"},
-        {"Memory & Cache Optimization",  90, "█████████████████░░░ 90%"},
-        {"System Architecture & OOP",   85, "███████████████░░░░░ 85%"},
-        {"Frontend & UI/UX Logic",      80, "██████████████░░░░░░ 80%"}
-    };
-    for (const auto& skill : skills) {
-        std::cout << skill.category << " :: " << skill.progressBar << "\n";
-    }
+int main() {
+    std::cout << "C++ Systems & STL Internals  :: ████████████████████ 98%\n";
+    std::cout << "Data Structures & Algorithms :: ██████████████████░░ 92%\n";
+    std::cout << "Low-Level Optimization       :: █████████████████░░░ 90%\n";
+    std::cout << "System Architecture & OOP    :: ███████████████░░░░░ 85%\n";
+    std::cout << "Web Stack & Frontend UI/UX   :: ██████████████░░░░░░ 80%\n";
+    return 0;
 }
 ```
 
@@ -256,28 +231,25 @@ void printSkills() {
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 4: ADVANCED C++ BENCHMARKS                          -->
+<!--                                SECTION 4: ADVANCED BENCHMARKS                              -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>⚡ ADVANCED C++ CODE & PERFORMANCE BENCHMARKS</h2>
+  <h2>⚡ HIGH-PERFORMANCE C++ CODE</h2>
 </div>
 
-#### 🧠 Custom High-Speed Memory Pool Allocator Snippet
+#### 🧠 Custom Memory Pool Allocator
 ```cpp
 template <typename T, std::size_t BlockSize = 4096>
 class MemoryPool {
 public:
     template <typename... Args>
     T* allocate(Args&&... args) {
-        if (!freeList_) {
-            allocateBlock();
-        }
+        if (!freeList_) allocateBlock();
         Slot_* currentSlot = freeList_;
         freeList_ = freeList_->next;
         return new (&currentSlot->element) T(std::forward<Args>(args)...);
     }
-
     void deallocate(T* p) noexcept {
         if (p != nullptr) {
             reinterpret_cast<Slot_*>(p)->next = freeList_;
@@ -285,37 +257,25 @@ public:
         }
     }
 private:
-    union Slot_ {
-        T element;
-        Slot_* next;
-    };
+    union Slot_ { T element; Slot_* next; };
     Slot_* freeList_ = nullptr;
-    void allocateBlock() { /* High-performance block allocation */ }
+    void allocateBlock() { /* High-speed allocation */ }
 };
 ```
-
-<br/>
-
-#### ⚡ Lock-Free Concurrent Queue Performance Benchmark Table
-| Allocator / Structure | Operations/sec | Latency (ns) | Cache Misses (%) |
-| :--- | :--- | :--- | :--- |
-| **Salil's Lock-Free MPMC Queue** | **48,500,000 ops/sec** | **12.4 ns** | **0.12%** |
-| `std::mutex` + `std::queue` | 4,200,000 ops/sec | 185.0 ns | 4.80% |
-| `boost::lockfree::queue` | 41,000,000 ops/sec | 15.1 ns | 0.35% |
 
 ---
 
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 5: LEETCODE COMMAND CENTER                          -->
+<!--                                SECTION 5: LEETCODE HUB                                     -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>🧩 LEETCODE & PROBLEM SOLVING COMMAND CENTER</h2>
+  <h2>🧩 LEETCODE ARENA</h2>
   <br/>
   <a href="https://leetcode.com/u/salilgupta_7/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-salilgupta__7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode_Profile-salilgupta__7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
@@ -324,13 +284,13 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 6: 3D TROPHY VAULT                                  -->
+<!--                                SECTION 6: 3D TROPHIES                                      -->
 <!-- ========================================================================================== -->
 
 <div align="center">
   <h2>🏆 3D ISOMETRIC TROPHY VAULT</h2>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=onedark&no-frame=false&no-background=true&margin-w=15&row=2" alt="Trophy Vault" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salilgupta17&theme=synthwave&no-frame=false&no-background=true&margin-w=15&row=2" alt="Trophies" width="98%" />
 </div>
 
 ---
@@ -338,11 +298,11 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 7: LIVE TELEMETRY & ANALYTICS                       -->
+<!--                                SECTION 7: TELEMETRY & STATS                                -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>📈 LIVE TELEMETRY & ANALYTICS DASHBOARD</h2>
+  <h2>📈 LIVE GITHUB TELEMETRY & ANALYTICS</h2>
 </div>
 
 <div align="center">
@@ -350,18 +310,17 @@ private:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=12&line_height=26" alt="Salil's Stats" width="415" />
+      <img src="https://github-readme-stats.vercel.app/api?username=salilgupta17&show_icons=true&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&border_radius=12&line_height=26" alt="Stats" width="415" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" alt="Language Spectrum" width="375" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilgupta17&layout=compact&theme=synthwave&hide_border=false&border_radius=12" alt="Languages" width="375" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Continuous Activity Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=tokyonight&hide_border=false&border_radius=12" alt="Commitment Streak" width="810" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salilgupta17&theme=synthwave&hide_border=false&border_radius=12" alt="Streak" width="810" />
 
 </div>
 
@@ -370,29 +329,29 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 8: DEVELOPER FAQ & Q&A                              -->
+<!--                                SECTION 8: FAQ                                              -->
 <!-- ========================================================================================== -->
 
 <div align="center">
-  <h2>❓ FREQUENTLY ASKED QUESTIONS (FAQ)</h2>
+  <h2>❓ FREQUENTLY ASKED QUESTIONS</h2>
 </div>
 
 <details>
-  <summary><b>1. What is your primary programming language and why C++?</b></summary>
+  <summary><b>1. Why C++ as your core language?</b></summary>
   <br/>
-  C++ is my primary language because it offers direct control over memory, cache alignment, and hardware execution, allowing for zero-cost abstractions and maximum performance.
+  Because C++ gives absolute power over memory, zero-cost abstractions, and maximum hardware speed!
 </details>
 
 <details>
-  <summary><b>2. How often do you practice LeetCode and Competitive Programming?</b></summary>
+  <summary><b>2. How often do you practice algorithms on LeetCode?</b></summary>
   <br/>
-  Daily! I actively solve problem sets on <a href="https://leetcode.com/u/salilgupta_7/">LeetCode (salilgupta_7)</a> focusing on Dynamic Programming, Graph Algorithms, and Advanced Data Structures.
+  Every single day on <a href="https://leetcode.com/u/salilgupta_7/">LeetCode (salilgupta_7)</a>!
 </details>
 
 <details>
-  <summary><b>3. What OS and IDE environment do you use?</b></summary>
+  <summary><b>3. What OS and setup do you run?</b></summary>
   <br/>
-  I build on both Linux (Ubuntu/Debian) and Windows with VS Code, GDB, CMake, and Git.
+  Linux & Windows with VS Code, CMake, GDB, and Git.
 </details>
 
 ---
@@ -400,7 +359,7 @@ private:
 <br/>
 
 <!-- ========================================================================================== -->
-<!--                                SECTION 9: CONNECT MATRIX & FOOTER                          -->
+<!--                                SECTION 9: CONNECT                                          -->
 <!-- ========================================================================================== -->
 
 <div align="center">
@@ -426,6 +385,6 @@ private:
 <br/><br/>
 
 <div align="center">
-  <!-- Sleek 3D Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:161b22,70:21262d,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <!-- Neon Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,#0f0c29,20:#302b63,40:#24243e,70:#ff007f,100:#00f5ff&height=140&section=footer" width="100%" alt="Footer Banner" />
 </div>
